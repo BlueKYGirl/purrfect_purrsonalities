@@ -1,0 +1,478 @@
+,Timestamp,family,"What is your pet's name? (As a reminder, you should submit one separate survey for each cat you have.)",How did you acquire this cat?,"If your cat came from a cat cafe, or if you indicated you adopted this cat from ""Other"", please give the name of the cafe or other adoption/purchase source below:",In which of the following life stages is this cat?,"How long, in years, have you had this cat? (Please round up or round down to the closest whole number.)",Which of these best describes your cat's coat color? ,"If your cat's coat was marked as ""Other"", please describe the cat's coloration below:","Approximately how much does your cat weigh, in pounds? (Please use decimals instead of fractions if you know your cat's weight very specifically.)","On a scale from 1 to 10, with 1 being ""scaredy cat"" and 10 being ""social butterfly"", how social is your cat around people?","On a scale from 1 to 10, with 1 being ""Has one brain cell"" and 10 being ""Kitty Einstein"", how intelligent do you think your cat is? (A nice simple quiz you can use to gauge this based on everyday behaviors can be found here.)","On a scale from 1 to 10, with 1 being ""Couch potato"" and 10 being ""Always in motion"", how active/playful is your cat?","On a scale from 1 to 10, with 1 being ""Cat's got his tongue"" and 10 being ""Chatty Cathy"", how vocal is your cat?"
+0,6/5/2023 17:07:17,0,Archie,Adopted at a cat cafe,,Adult (3--6 years),4,Orange tabby/orange tabby with white,,15,9,7,6,3
+1,6/5/2023 17:15:18,1,Dax,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,0,Orange tabby/orange tabby with white,,9.5,10,7,9,8
+2,6/5/2023 19:54:13,2,Aylin,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Calico,,7,5,8,6,7
+3,6/5/2023 20:17:40,3,Ali,Adopted through animal shelter/rescue group,,Mature (7--10 years),6,Tortoiseshell,,15,2,7,3,5
+4,6/5/2023 20:18:42,3,Warner,Adopted through animal shelter/rescue group,,Mature (7--10 years),6,Gray tuxedo (gray and white),,12,9,7,7,10
+5,6/6/2023 9:30:07,4,Cleo,Acquired through a friend or relative,,Super Senior (15 years+),16,Solid black,,8.6,4,6,2,3
+6,6/6/2023 9:36:41,5,Cinnamon,Adopted through animal shelter/rescue group,,Adult (3--6 years),3 years,Brown tabby/brown tabby with white,,8 lbs,8,6,7,9
+7,6/6/2023 9:38:35,6,Patti LaBelle,Adopted through animal shelter/rescue group,,Adult (3--6 years),2,Brown tabby/brown tabby with white,,13 pounds,5,8,4,10
+8,6/6/2023 9:41:00,7,Claire,Adopted through animal shelter/rescue group,,Senior (11-14 years),14,Calico,,13,10,8,3,8
+9,6/6/2023 9:51:26,8,Charlie,Found as a stray,,Mature (7--10 years),10 years,Classic tuxedo (black and white),,16lbs,10,3,2,1
+10,6/6/2023 9:53:18,8,Bella,Found as a stray,,Mature (7--10 years),7 years,Seal point,,7 lbs,8,9,4,10
+11,6/6/2023 9:55:28,8,Finn,Adopted through animal shelter/rescue group,,Adult (3--6 years),51/2 years,Orange tabby/orange tabby with white,,6lbs,5,5,9,5
+12,6/6/2023 9:57:15,8,Rip,Found as a stray,,Adult (3--6 years),2 years,Brown tabby/brown tabby with white,,16lbs,10,8,7,6
+13,6/6/2023 9:59:35,8,Sushi,Found as a stray,,Adult (3--6 years),1 1/2 years,Classic tuxedo (black and white),,8 lbs,4,9,10,5
+14,6/6/2023 10:08:36,9,Lucy,Adopted through animal shelter/rescue group,,Mature (7--10 years),10,Tortoiseshell,,11,6,9,2,8
+15,6/6/2023 10:11:04,9,Oliver,Found as a stray,,Adult (3--6 years),6,Gray tabby/gray tabby with white,,13,2,3,5,4
+16,6/6/2023 10:12:38,9,Mama,Found as a stray,,Adult (3--6 years),5,Other,ocicat tabby mix,9,8,9,6,9
+17,6/6/2023 10:14:07,9,Logan,Found as a stray,,Adult (3--6 years),5,Other,ocicat marble tabby mix,13,1,6,7,2
+18,6/6/2023 10:15:14,9,Aiva,Found as a stray,,Adult (3--6 years),4,Classic tuxedo (black and white),,7,4,8,10,2
+19,6/6/2023 10:16:34,9,Daisy,Found as a stray,,Adult (3--6 years),2,Other,abyssian tabby mix,7,6,7,8,10
+20,6/6/2023 10:17:29,10,Spooky,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Solid black,,5,8,8,9,5
+21,6/6/2023 10:17:44,9,Alex,Found as a stray,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,0,Orange tabby/orange tabby with white,,2,9,6,10,2
+22,6/6/2023 10:18:51,10,Pandora,Found as a stray,,Adult (3--6 years),6,Calico,,14.7,3,9,2,2
+23,6/6/2023 10:19:04,10,Pandora,Found as a stray,,Adult (3--6 years),6,Calico,,14.7,3,9,2,2
+24,6/6/2023 10:22:55,11,Luna,Acquired through a friend or relative,,Adult (3--6 years),4 yrs,Solid black,,10,7,6,4,5
+25,6/6/2023 10:38:43,12,Phil,Found as a stray,,Senior (11-14 years),12,Brown tabby/brown tabby with white,,9,10,10,5,5
+26,6/6/2023 10:40:14,12,Sam,Adopted through animal shelter/rescue group,,Senior (11-14 years),13,Solid black,,7,3,8,3,3
+27,6/6/2023 10:41:53,13,Franklyn ,Found as a stray,,Senior (11-14 years),12 years,Other,Blonde with tabby markings on the head,10 pounds,4,6,7,8
+28,6/6/2023 10:42:04,14,Nicholas ( Nicky Meownaj),Acquired through a friend or relative,,Mature (7--10 years),10,Seal point,,8 lbs,5,9,5,4
+29,6/6/2023 10:43:14,15,Cupcake ,Found as a stray,,Senior (11-14 years),14,Calico,,12 lbs,4,8,3,5
+30,6/6/2023 10:43:15,16,August,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Tortoiseshell,,8,10,7,6,7
+31,6/6/2023 10:43:36,13,Ashliegh,Acquired through a friend or relative,,Adult (3--6 years),5 years,Tortoiseshell,,10 pounds,2,4,1,2
+32,6/6/2023 10:44:07,14,Luci Fur,Found as a stray,,Mature (7--10 years),9,Solid black,,3.5,2,2,3,6
+33,6/6/2023 10:45:36,16,Kali,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Tortoiseshell,,10,4,8,7,6
+34,6/6/2023 10:46:11,14,Harry Pawter,Acquired through a friend or relative,,Adult (3--6 years),3,Other,Snowshoe Siamese ,14 lbs,8,4,3,4
+35,6/6/2023 10:47:36,14,RuPaw,Acquired through a friend or relative,,Adult (3--6 years),3,Solid black,,9lbs,8,6,7,6
+36,6/6/2023 10:49:50,17,Tuttle ,Adopted through animal shelter/rescue group,,Super Senior (15 years+),14,Tortoiseshell,,7 lbs,3,3,1,7
+37,6/6/2023 10:51:01,15,Nacho,Acquired through a friend or relative,,Adult (3--6 years),3 years,Orange tabby/orange tabby with white,,13 lbs,2,3,5,5
+38,6/6/2023 10:54:40,18,Ozzie,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Solid gray,,9.14,10,3,7,8
+39,6/6/2023 10:55:49,18,Eli,Acquired through a friend or relative,,Mature (7--10 years),1,Brown tabby/brown tabby with white,,15,8,8,3,1
+40,6/6/2023 11:01:51,19,Linus,Acquired through a friend or relative,,Adult (3--6 years),6,Gray tuxedo (gray and white),,20 lbs,6,8,3,8
+41,6/6/2023 11:03:19,20,Lucy,Acquired through a friend or relative,,Adult (3--6 years),6,Brown tabby/brown tabby with white,,12 lbs,9,5,5,7
+42,6/6/2023 11:07:51,21,Plume,Acquired through a friend or relative,,Adult (3--6 years),3,Classic tuxedo (black and white),,10,4,6,4,2
+43,6/6/2023 11:12:48,22,Binky,Adopted through animal shelter/rescue group,,Adult (3--6 years),2 years,Orange tabby/orange tabby with white,,10 pounds,3,4,4,4
+44,6/6/2023 11:14:43,22,Teddy,Adopted through animal shelter/rescue group,,Adult (3--6 years),1 year,Classic tuxedo (black and white),,12 pounds,8,9,5,7
+45,6/6/2023 11:14:44,23,Bernie,Adopted through animal shelter/rescue group,,Mature (7--10 years),7,Classic tuxedo (black and white),,17,8,10,4,10
+46,6/6/2023 11:16:09,24,Arlo Davy Guthrie ,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Solid gray,,8.5,7,5,9,3
+47,6/6/2023 11:16:16,25,Nutcase,Adopted through animal shelter/rescue group,,Senior (11-14 years),10,Gray tuxedo (gray and white),,12,7,8,6,6
+48,6/6/2023 11:16:39,23,Joey,Adopted through animal shelter/rescue group,,Mature (7--10 years),7,Solid black,,15,1,7,6,10
+49,6/6/2023 11:17:45,24,Woodrow Wilson Guthrie,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Solid gray,,11,3,7,3,3
+50,6/6/2023 11:18:22,23,Leia,Adopted through animal shelter/rescue group,,Mature (7--10 years),9,Calico,,15,10,8,6,5
+51,6/6/2023 11:22:45,12,Squeaks,Purchased from a pet store,,Super Senior (15 years+),16,Solid black,,10,10,2,7,7
+52,6/6/2023 11:23:35,26,Walter,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Orange tabby/orange tabby with white,,7,6,8,5,10
+53,6/6/2023 11:24:18,12,Cloudy,Acquired through a friend or relative,,Senior (11-14 years),12,Solid white,,15,8,6,7,2
+54,6/6/2023 11:25:48,12,Beans,Found as a stray,,Mature (7--10 years),10,Classic tuxedo (black and white),,11,1,8,6,7
+55,6/6/2023 11:26:08,27,Vegas,Acquired through a friend or relative,,Mature (7--10 years),6,Brown tabby/brown tabby with white,,13,6,6,4,7
+56,6/6/2023 11:27:06,12,Cricket ,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Solid black,,9,10,10,10,8
+57,6/6/2023 11:27:19,28,Sally ,Found as a stray,,Super Senior (15 years+),15 years,Classic tuxedo (black and white),,6 lbs,8,10,7,10
+58,6/6/2023 11:28:28,12,Violet ,Adopted through animal shelter/rescue group,,Mature (7--10 years),9,Solid black,,7,8,10,6,5
+59,6/6/2023 11:29:14,29,Koda Bear,Found as a stray,,Adult (3--6 years),6 years,Gray tabby/gray tabby with white,,12.50 pounds,10,7,3,10
+60,6/6/2023 11:29:54,12,April,Adopted through animal shelter/rescue group,,Senior (11-14 years),12,Calico,,14,1,6,2,10
+61,6/6/2023 11:30:21,28,Kitty,Purchased from a pet store,,Super Senior (15 years+),23,Brown tabby/brown tabby with white,,5,10,3,1,5
+62,6/6/2023 11:30:59,12,Mitzi,Adopted through animal shelter/rescue group,,Senior (11-14 years),12,Gray tabby/gray tabby with white,,12,7,5,1,1
+63,6/6/2023 11:31:10,30,Tuxedo,Found as a stray,,Adult (3--6 years),6,Classic tuxedo (black and white),,9,9,9,7,6
+64,6/6/2023 11:32:07,31,"Kikyo, aka Kiki, Keeks, Keekers, Princess",Acquired through a friend or relative,,Super Senior (15 years+),14 years,Classic tuxedo (black and white),,7 pounds,9,8,8,7
+65,6/6/2023 11:32:19,30,Lyla,Adopted through animal shelter/rescue group,,Senior (11-14 years),13,Solid white,,13,1,8,1,5
+66,6/6/2023 11:32:21,28,Puff,Found as a stray,,Adult (3--6 years),6 years,Other,Grey and white long hair,10,1,2,10,10
+67,6/6/2023 11:36:03,31,"Bendy aka Bendy-Boo, BendyKitty",Acquired through a friend or relative,,Adult (3--6 years),4 years,Solid gray,,15 pounds,3,4,2,2
+68,6/6/2023 11:36:20,32,Kermit,Adopted through animal shelter/rescue group,,Adult (3--6 years),4 years,Gray tabby/gray tabby with white,,20,5,5,1,6
+69,6/6/2023 11:37:25,33,Rowdy,Acquired through a friend or relative,,Adult (3--6 years),3,Solid gray,,12,7,8,8,3
+70,6/6/2023 11:37:29,32,Pumpkin,Adopted through animal shelter/rescue group,,Adult (3--6 years),3 years,Orange tabby/orange tabby with white,,9,9,1,10,8
+71,6/6/2023 11:37:44,34,Ginger,Acquired through a friend or relative,,Super Senior (15 years+),20 years,Brown tabby/brown tabby with white,,12.5 lbs,1,9,3,10
+72,6/6/2023 11:40:21,33,Nugget,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Brown tabby/brown tabby with white,,11,3,4,6,2
+73,6/6/2023 11:42:28,35,Penny,Adopted through animal shelter/rescue group,,Adult (3--6 years),5,Tortoiseshell,,9lbs,10,10,8,10
+74,6/6/2023 11:42:30,33,Earl,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Brown tabby/brown tabby with white,,17,10,3,6,4
+75,6/6/2023 11:43:29,35,Kia,Found as a stray,,Adult (3--6 years),3,Solid black,,17,4,9,7,3
+76,6/6/2023 11:45:41,36,Milo,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Orange tabby/orange tabby with white,,Ginger 3 lbs,8,8,8,4
+77,6/6/2023 11:45:50,35,Salem,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Solid black,,15,10,10,10,7
+78,6/6/2023 11:47:05,37,Andy Roo,Acquired through a friend or relative,,Adult (3--6 years),3,Other,White with orange spots,15,9,3,10,9
+79,6/6/2023 11:51:11,38,Lint,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,about 1 year,Solid black,,8 lbs,10,7,6,5
+80,6/6/2023 12:05:56,39,Bea,Found as a stray,,Adult (3--6 years),4,Brown tabby/brown tabby with white,,8.5,7,8,8,5
+81,6/6/2023 12:11:06,40,Butter,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,6 years,Orange tabby/orange tabby with white,,16,9,9,4,6
+82,6/6/2023 12:12:11,41,Diego,Adopted at a cat cafe,,Adult (3--6 years),3,Gray tabby/gray tabby with white,,15.5,8,8,9,7
+83,6/6/2023 12:17:04,42,Cappy,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Gray tabby/gray tabby with white,,15,9,8,2,8
+84,6/6/2023 12:23:11,43,Willow,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Tortoiseshell,,13,3,6,6,5
+85,6/6/2023 12:25:01,44,Ashley,Received as a gift,,Super Senior (15 years+),15,Other,Tabby-tortie or torbie,15,1,6,1,6
+86,6/6/2023 12:25:04,43,Orrick,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Solid black,,12,7,6,9,8
+87,6/6/2023 12:26:29,43,Cedar,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Orange tabby/orange tabby with white,,15,7,6,1,6
+88,6/6/2023 12:27:25,45,Tulio,Adopted through animal shelter/rescue group,,Adult (3--6 years),2,Gray tabby/gray tabby with white,,7,3,6,3,1
+89,6/6/2023 12:28:37,46,Gracie,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,14,Gray tabby/gray tabby with white,,6.5,10,7,4,10
+90,6/6/2023 12:29:00,47,Layla,Adopted through animal shelter/rescue group,,Adult (3--6 years),2,Calico,,7,1,7,8,2
+91,6/6/2023 12:29:14,48,Ella,Adopted through animal shelter/rescue group,,Super Senior (15 years+),16 years,Tortoiseshell,,12 pounds,10,8,1,5
+92,6/6/2023 12:29:19,49,Venom,Found as a stray,,Senior (11-14 years),14,Solid black,,5.5,10,9,5,9
+93,6/6/2023 12:33:38,49,Minerva,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Calico,,11.5,8,1,8,8
+94,6/6/2023 12:36:57,50,Byther,Found as a stray,,Adult (3--6 years),2 years ,Gray tuxedo (gray and white),,No idea but he’s a smol kitteh,10,8,5,6
+95,6/6/2023 12:39:34,51,Ratmask,Adopted through animal shelter/rescue group,,Senior (11-14 years),11,Seal point,,9,4,5,8,10
+96,6/6/2023 12:41:22,52,Ginny,Found as a stray,,Senior (11-14 years),13 years,Orange tabby/orange tabby with white,,7 lbs,5,8,5,7
+97,6/6/2023 12:41:41,53,Sheldon,Acquired through a friend or relative,,Senior (11-14 years),12,Gray tabby/gray tabby with white,,9lbs,5,4,3,8
+98,6/6/2023 12:45:03,54,Joey,Found as a stray,,Mature (7--10 years),10,Other,"Red flame, orange tips on ears, orange strips on tail",15,9,9,9,6
+99,6/6/2023 12:48:36,55,Chloe,Found as a stray,,Mature (7--10 years),10,Other,"Grays, orange, white, no cat color fits her",25,2,1,1,2
+100,6/6/2023 12:49:09,56,Leo,Acquired through a friend or relative,,Adult (3--6 years),6,Other,"Black with brown/gray stripe marking, brown belly",12,7,8,4,5
+101,6/6/2023 12:49:56,53,Sassy,Found as a stray,,Mature (7--10 years),9,Brown tabby/brown tabby with white,,13lbs,2,1,1,10
+102,6/6/2023 12:50:05,54,Harley,Found as a stray,,Mature (7--10 years),10,Gray tabby/gray tabby with white,,10,2,5,9,6
+103,6/6/2023 12:52:00,57,Fattie,Adopted through animal shelter/rescue group,,Adult (3--6 years),4 years,Orange tabby/orange tabby with white,,18 lbs,5,7,1,6
+104,6/6/2023 12:53:08,58,Pumpkin ,Purchased from a pet store,,Senior (11-14 years),13,Calico,,No idea ,6,2,1,9
+105,6/6/2023 12:53:39,57,Molly,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Calico,,8,3,4,4,3
+106,6/6/2023 12:54:56,53,Loki,Purchased from a pet store,,Mature (7--10 years),7,Orange tabby/orange tabby with white,,14lbs,10,10,8,6
+107,6/6/2023 12:54:59,58,Spooky ,Purchased from a pet store,,Senior (11-14 years),13,Calico,,No idea ,3,9,3,2
+108,6/6/2023 12:55:39,59,Betty,Adopted through animal shelter/rescue group,,Senior (11-14 years),Since 4 months ,Other,Black with white spots ,12,10,10,8,10
+109,6/6/2023 12:55:43,56,Dunkin,Acquired through a friend or relative,,Adult (3--6 years),6,Other,"Belly, legs and bottom half of his body is white. His back and some of the sides of his body are black.",12,3,8,3,2
+110,6/6/2023 12:58:44,53,Cali/Reese,Found as a stray,,Mature (7--10 years),2,Tortoiseshell,,7lbs,4,5,6,1
+111,6/6/2023 13:11:49,60,Brody,Found as a stray,,Senior (11-14 years),15,Gray tabby/gray tabby with white,,8.4 lbs,10,8,6,9
+112,6/6/2023 13:13:38,60,Isabel,Found as a stray,,Super Senior (15 years+),17,Gray tabby/gray tabby with white,,8,4,6,2,10
+113,6/6/2023 13:15:12,61,Kraken,Acquired through a friend or relative,,Adult (3--6 years),3,Solid black,,10,9,8,7,6
+114,6/6/2023 13:27:41,62,"Whiskey, tequila and Bourbon ",Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Solid black,,8-15 pounds,10,8,5,7
+115,6/6/2023 13:30:11,63,LUNA,Adopted through animal shelter/rescue group,,Adult (3--6 years),2 .5 years,Gray tuxedo (gray and white),,Grey and white tuxedo cat,4,9,3,10
+116,6/6/2023 13:33:33,64,Gracie,Purchased from a breeder,,Adult (3--6 years),4,Seal point,,8 lbs,6,10,9,10
+117,6/6/2023 13:33:54,65,Amber,Adopted through animal shelter/rescue group,,Super Senior (15 years+),20 years,Tortoiseshell,,6.4,10,6,9,10
+118,6/6/2023 13:35:00,66,Ms Kitty,Acquired through a friend or relative,,Adult (3--6 years),1,Gray tabby/gray tabby with white,,20,5,8,5,9
+119,6/6/2023 13:35:40,64,Prudy ,Acquired through a friend or relative,,Senior (11-14 years),7 yrs,Classic tuxedo (black and white),,13 lbs,1,5,2,4
+120,6/6/2023 13:40:37,67,MOOCHIE,Found as a stray,,Senior (11-14 years),12,Solid black,,12,10,10,7,9
+121,6/6/2023 13:40:40,68,Eddy,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Classic tuxedo (black and white),,12,5,4,8,2
+122,6/6/2023 13:42:44,68,Elly,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Classic tuxedo (black and white),,8,3,5,8,4
+123,6/6/2023 13:45:35,69,Jojo,Adopted through animal shelter/rescue group,,Senior (11-14 years),11 years,Other,Mostly white with black spots,9,2,5,4,1
+124,6/6/2023 13:47:24,69,Demon,Found as a stray,,Adult (3--6 years),6 years,Solid black,,10,8,8,10,6
+125,6/6/2023 14:00:55,70,Meeko,Adopted through animal shelter/rescue group,,Adult (3--6 years),2,Classic tuxedo (black and white),,14,8,8,3,7
+126,6/6/2023 14:05:18,70,Roux,Adopted through animal shelter/rescue group,,Adult (3--6 years),1,Other,Brown/orange/white Torby,11,3,5,7,3
+127,6/6/2023 14:18:20,71,Blackie,Acquired through a friend or relative,,Senior (11-14 years),10 years,Solid black,,16 lbs,9,9,8,10
+128,6/6/2023 14:26:29,72,Ringo,Acquired through a friend or relative,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,3,Gray tuxedo (gray and white),,?,3,5,5,5
+129,6/6/2023 14:29:37,73,Kit,Found as a stray,,Senior (11-14 years),12,Seal point,,12,10,7,2,1
+130,6/6/2023 14:30:20,73,Kat,Found as a stray,,Senior (11-14 years),12,Seal point,,18,8,1,1,5
+131,6/6/2023 14:31:23,73,Truly,Found as a stray,,Senior (11-14 years),11,Solid black,,12,2,5,3,10
+132,6/6/2023 14:32:16,73,Kole,Adopted through animal shelter/rescue group,,Mature (7--10 years),9,Solid gray,,12,10,1,5,5
+133,6/6/2023 14:33:25,73,Kenzie,Adopted through animal shelter/rescue group,,Adult (3--6 years),6,Tortoiseshell,,15,1,1,1,1
+134,6/6/2023 14:44:31,74,Lowell,Adopted through animal shelter/rescue group,,Adult (3--6 years),3 years,Gray tabby/gray tabby with white,,9.3 pounds,7,10,5,9
+135,6/6/2023 14:45:54,74,Lucy,Adopted through animal shelter/rescue group,,Adult (3--6 years),3 years old,Solid gray,,6.8 pounds,2,4,4,4
+136,6/6/2023 14:47:22,74,Bitty,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1 year,Other,"Part orange tabby, part calico",9 pounds,8,8,7,5
+137,6/6/2023 14:59:53,75,Sinatra,Acquired through a friend or relative,,Adult (3--6 years),I had him for 3,Classic tuxedo (black and white),,15,4,8,4,10
+138,6/6/2023 15:06:21,76,Artemis,Acquired through a friend or relative,,Mature (7--10 years),7,Classic tuxedo (black and white),,11,2,8,3,7
+139,6/6/2023 15:07:43,76,Zefram,Acquired through a friend or relative,,Mature (7--10 years),8,Solid black,,12,7,1,3,1
+140,6/6/2023 15:12:38,77,Sylvester,Acquired through a friend or relative,,Adult (3--6 years),3 years,Classic tuxedo (black and white),,8 lbs,8,6,8,10
+141,6/6/2023 15:13:48,78,Shelly,Purchased from a breeder,,Adult (3--6 years),3 years ,Seal point,,5 pounds,10,7,6,1
+142,6/6/2023 15:13:54,77,Mittens,Acquired through a friend or relative,,Adult (3--6 years),3 years,Classic tuxedo (black and white),,8 lbs,5,5,7,8
+143,6/6/2023 15:15:47,77,Scooter,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years,Cinnamon,,7 lbs,3,9,5,9
+144,6/6/2023 15:18:01,79,Shadow,Acquired through a friend or relative,,Adult (3--6 years),4 years ,Gray tabby/gray tabby with white,,15,3,8,5,8
+145,6/6/2023 15:50:35,36,Purrcy,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 weeks,Classic tuxedo (black and white),,3 lbs,5,5,8,3
+146,6/6/2023 15:51:20,80,Vivy,Adopted through animal shelter/rescue group,,Mature (7--10 years),6 years,Gray tabby/gray tabby with white,,9,7,9,6,2
+147,6/6/2023 15:52:28,80,Maisie,Adopted through animal shelter/rescue group,,Adult (3--6 years),6 yrs,Gray tabby/gray tabby with white,,13,2,9,7,7
+148,6/6/2023 15:53:48,80,Taylor,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,6 months,Orange tabby/orange tabby with white,,11,10,5,10,10
+149,6/6/2023 15:54:41,81,Jasmine,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,16,Solid black,,12,2,8,3,2
+150,6/6/2023 15:54:56,80,Tess,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,6 months,Calico,,9,2,9,8,5
+151,6/6/2023 16:18:49,82,Poppy Cat,Adopted at a cat cafe,,Adult (3--6 years),4,Brown tabby/brown tabby with white,,11,4,8,5,10
+152,6/6/2023 16:19:11,83, J C JIMMY,Acquired through a friend or relative,,Adult (3--6 years),4,Tortoiseshell,,12 LBS,3,7,4,2
+153,6/6/2023 16:36:50,84,Miracle,Acquired through a friend or relative,,Super Senior (15 years+),12,Tortoiseshell,,6 pounds 8 ounces,4,8,8,10
+154,6/6/2023 16:39:09,85,Giovanni,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Solid gray,,12,10,6,5,8
+155,6/6/2023 16:42:10,86,Murphy,Found as a stray,,Super Senior (15 years+),16,Orange tabby/orange tabby with white,,11,6,5,5,8
+156,6/6/2023 16:42:36,85,Felix,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1 year,Other,Chocolate tabby point Siamese ,10,10,9,10,10
+157,6/6/2023 16:42:44,84,Penelope,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1 year,Tortoiseshell,,6 pounds,10,7,10,6
+158,6/6/2023 16:43:22,86,Stella,Found as a stray,,Senior (11-14 years),11,Tortoiseshell,,13,2,2,2,4
+159,6/6/2023 16:44:31,86,Inka,Found as a stray,,Senior (11-14 years),9,Solid black,,10,9,6,8,9
+160,6/6/2023 16:45:28,86,Oscar,Found as a stray,,Mature (7--10 years),9,Solid black,,13,9,7,9,8
+161,6/6/2023 16:45:54,87,Kimmie,Acquired through a friend or relative,,Senior (11-14 years),10 years,Brown tabby/brown tabby with white,,6.5 pounds,1,7,3,8
+162,6/6/2023 16:46:43,86,Rosie,Found as a stray,,Mature (7--10 years),7,Classic tuxedo (black and white),,10,7,9,9,9
+163,6/6/2023 16:46:45,88,Faux Paw,Adopted through animal shelter/rescue group,,Mature (7--10 years),Fostered from 1 week,Solid gray,,8.2,3,8,4,5
+164,6/6/2023 16:47:44,86,Merlin,Found as a stray,,Mature (7--10 years),5,Brown tabby/brown tabby with white,,14,8,9,3,7
+165,6/6/2023 16:48:46,86,Charlotte,Acquired through a friend or relative,,Adult (3--6 years),5,Tortoiseshell,,12,4,4,3,7
+166,6/6/2023 16:51:25,88,Rigatoni,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1 year,Orange tabby/orange tabby with white,,11.8,9,2,6,6
+167,6/6/2023 16:51:43,89,Toulouse ,Found as a stray,,Mature (7--10 years),9,Brown tabby/brown tabby with white,,I don’t know. ,3,6,7,6
+168,6/6/2023 16:56:32,90,Domino ,Acquired through a friend or relative,,Senior (11-14 years),12,Classic tuxedo (black and white),,21,10,10,3,9
+169,6/6/2023 17:03:09,90,Shadow ,Found as a stray,,Adult (3--6 years),4,Classic tuxedo (black and white),,7,7,8,5,4
+170,6/6/2023 17:06:22,91,Diego,Acquired through a friend or relative,,Senior (11-14 years),11years,Orange tabby/orange tabby with white,,15,1,8,1,5
+171,6/6/2023 17:08:20,91,Carmine,Adopted through animal shelter/rescue group,,Mature (7--10 years),9,Gray tabby/gray tabby with white,,15,8,10,6,5
+172,6/6/2023 17:25:28,92,Zoey,Adopted through animal shelter/rescue group,,Mature (7--10 years),10 years,Classic tuxedo (black and white),,12,8,6,6,7
+173,6/6/2023 17:26:22,93,Churchill,Found as a stray,,Senior (11-14 years),13,Solid gray,,15,5,8,3,5
+174,6/6/2023 17:27:00,94,Tiger,Acquired through a friend or relative,,Mature (7--10 years),10,Orange tabby/orange tabby with white,,8,4,5,5,7
+175,6/6/2023 17:27:11,92,Oliver,Adopted through animal shelter/rescue group,,Mature (7--10 years),7 years,Gray tabby/gray tabby with white,,10,2,6,8,2
+176,6/6/2023 17:27:17,93,Laney,Found as a stray,,Mature (7--10 years),10,Brown tabby/brown tabby with white,,14,1,2,5,4
+177,6/6/2023 17:40:45,95,Little Cat,Acquired through a friend or relative,,Adult (3--6 years),1,Gray tuxedo (gray and white),,8.5,7,8,7,7
+178,6/6/2023 18:07:00,96,MC,Acquired through a friend or relative,,Senior (11-14 years),1 year,Calico,,10 lbs,3,5,2,1
+179,6/6/2023 18:22:57,97,Jolean,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years,Orange tabby/orange tabby with white,,17 pounds,7,9,8,5
+180,6/6/2023 18:26:25,98,Tilly,Acquired through a friend or relative,,Super Senior (15 years+),8,Gray tabby/gray tabby with white,,8.8,9,7,4,9
+181,6/6/2023 18:28:34,99,Lolly,Found as a stray,,Super Senior (15 years+),14,Other,Mostly white with a few large brown spots (including a heart on shoulder),8,7,9,1,6
+182,6/6/2023 18:30:05,100,miso,Adopted through animal shelter/rescue group,,Adult (3--6 years),1,Gray tabby/gray tabby with white,,16,7,6,7,6
+183,6/6/2023 18:49:48,101,Jack,Acquired through a friend or relative,,Mature (7--10 years),7 years,Brown tabby/brown tabby with white,,Brown and black tabby,3,9,4,8
+184,6/6/2023 18:51:19,101,Bailey,Found as a stray,,Mature (7--10 years),7 years,Tortoiseshell,,13,7,7,4,4
+185,6/6/2023 19:02:00,102,Fenix,Adopted through animal shelter/rescue group,,Adult (3--6 years),10,Orange tabby/orange tabby with white,,15,10,8,3,10
+186,6/6/2023 19:03:12,102,Collins,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,8,Solid black,,16,5,8,5,1
+187,6/6/2023 19:10:31,103,Loki,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,almost 1 ,Gray tuxedo (gray and white),,3,9,7,8,10
+188,6/6/2023 19:25:48,104,Izzy Ruth,Acquired through a friend or relative,,Adult (3--6 years),3,Calico,,12,3,8,4,8
+189,6/6/2023 19:56:20,105,Milo,Adopted through animal shelter/rescue group,,Adult (3--6 years),4 years ,Gray tabby/gray tabby with white,,7,8,8,9,9
+190,6/6/2023 20:37:04,106,Gracie ,Adopted through animal shelter/rescue group,,Adult (3--6 years),3 years ,Gray tabby/gray tabby with white,,10.73 lb ,5,9,4,8
+191,6/6/2023 20:38:31,106,Ginger ,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1 year ,Calico,,8.73 lb ,8,1,8,3
+192,6/6/2023 20:44:45,107,Violet ,Acquired through a friend or relative,,Mature (7--10 years),8 years,Gray tabby/gray tabby with white,,7.5 pounds ,8,9,2,5
+193,6/6/2023 20:48:12,107,Kinsi,Acquired through a friend or relative,,Adult (3--6 years),5 years,Solid gray,,10 pounds,3,10,7,8
+194,6/6/2023 20:57:25,108,Luna ,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years. Found her at around 6 months old. ,Other,She is a calico and a tabby ,13.6,9,8,5,4
+195,6/6/2023 21:40:26,109,Lara,Found as a stray,,Adult (3--6 years),6,Classic tuxedo (black and white),,14,8,8,5,6
+196,6/6/2023 21:43:44,110,Sir Bright Eyes,Found as a stray,,Mature (7--10 years),7 years,Seal point,,9 lbs,5,9,8,8
+197,6/6/2023 21:49:54,111,Berlioz,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Orange tabby/orange tabby with white,,15,9,1,4,2
+198,6/6/2023 21:51:10,112,Gypsie,Found as a stray,,Adult (3--6 years),3,Classic tuxedo (black and white),,8,1,7,3,6
+199,6/6/2023 21:53:41,113,socks,Found as a stray,,Super Senior (15 years+),17yrs,Classic tuxedo (black and white),,8lb,5,5,2,4
+200,6/6/2023 22:02:00,114,Jake,Adopted through animal shelter/rescue group,,Super Senior (15 years+),17,Classic tuxedo (black and white),,10,8,8,7,10
+201,6/6/2023 22:30:49,115,Screech,Found as a stray,,Adult (3--6 years),3,Other,"Black and white splotches, not tuxedo",13,4,7,5,1
+202,6/6/2023 22:34:42,116,Loki,Acquired through a friend or relative,,Mature (7--10 years),8,Brown tabby/brown tabby with white,,9,5,8,9,6
+203,6/6/2023 22:36:02,117,Rum Tum Tugger,Adopted through animal shelter/rescue group,,Adult (3--6 years),2 years,Orange tabby/orange tabby with white,,15,7,8,7,8
+204,6/6/2023 23:28:49,118,Gavin,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,8,Solid black,,14,10,6,3,2
+205,6/6/2023 23:30:40,118,Scratch,Found as a stray,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,6,Brown tabby/brown tabby with white,,9,1,1,2,1
+206,6/6/2023 23:46:18,119,Colonel,Found as a stray,,Mature (7--10 years),6,Orange tabby/orange tabby with white,,16,6,6,2,4
+207,6/6/2023 23:47:47,119,Sage,Adopted through animal shelter/rescue group,,Mature (7--10 years),7,Tortoiseshell,,9,7,8,7,7
+208,6/6/2023 23:49:07,119,Juniper,Found as a stray,,Adult (3--6 years),6,Calico,,7,2,9,6,10
+209,6/7/2023 0:16:58,120,Cash,Acquired through a friend or relative,,Mature (7--10 years),7 years,Brown tabby/brown tabby with white,,15,3,10,3,3
+210,6/7/2023 0:18:06,120,Callie,Acquired through a friend or relative,,Mature (7--10 years),7,Brown tabby/brown tabby with white,,14,9,8,6,8
+211,6/7/2023 0:24:02,121,Daisy ,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1year,Tortoiseshell,,8,9,9,5,8
+212,6/7/2023 0:52:19,122,Scoobs,Found as a stray,,Adult (3--6 years),3 yrs,Gray tabby/gray tabby with white,,No idea,10,7,7,6
+213,6/7/2023 1:12:17,123,Sebastian ,Acquired through a friend or relative,,Mature (7--10 years),10,Brown tabby/brown tabby with white,,12 lbs,6,8,5,9
+214,6/7/2023 6:15:35,124,Max,Acquired through a friend or relative,,Mature (7--10 years),four,Other,"almost all white but black tail, and partly black on head and face ",not sure,8,9,8,7
+215,6/7/2023 6:17:43,124,Michael,Adopted through animal shelter/rescue group,,Adult (3--6 years),three,Orange tabby/orange tabby with white,,12 pounds,1,7,5,6
+216,6/7/2023 6:34:20,125,Pete,Adopted through animal shelter/rescue group,,Mature (7--10 years),9,Brown tabby/brown tabby with white,,17 lbs,7,4,2,7
+217,6/7/2023 7:29:52,126,Mork,Acquired through a friend or relative,,Adult (3--6 years),7,Solid white,,6,2,8,5,8
+218,6/7/2023 8:12:31,126,Mindy,Acquired through a friend or relative,,Mature (7--10 years),7,Orange tabby/orange tabby with white,,6,1,7,4,3
+219,6/7/2023 8:14:18,126,Monkey,Acquired through a friend or relative,,Adult (3--6 years),3,Classic tuxedo (black and white),,4,10,10,10,6
+220,6/7/2023 8:15:28,126,Moonpie ,Found as a stray,,Adult (3--6 years),3,Brown tabby/brown tabby with white,,8,3,4,2,3
+221,6/7/2023 9:06:12,127,Dolly Parton,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,0ne,Other,White with brown and black spots,7lbs,1,7,10,1
+222,6/7/2023 9:33:24,128,Monty,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Gray tabby/gray tabby with white,,10 pounds,7,7,8,8
+223,6/7/2023 9:35:52,129,Tyler,Acquired through a friend or relative,,Mature (7--10 years),9,Orange tabby/orange tabby with white,,16,10,6,3,2
+224,6/7/2023 9:37:00,129,Henrietta ,Acquired through a friend or relative,,Mature (7--10 years),9,Calico,,15,2,6,2,3
+225,6/7/2023 9:38:18,129,Skyler,Acquired through a friend or relative,,Adult (3--6 years),5,Solid black,,11,5,5,3,7
+226,6/7/2023 9:43:40,130,Milo the Kitty Cat,Acquired through a friend or relative,,Super Senior (15 years+),17 years,Orange tabby/orange tabby with white,,15 pounds,8,7,3,7
+227,6/7/2023 9:44:17,131,Nala,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,One year,Calico,,5 pounds,3,7,5,4
+228,6/7/2023 9:46:14,131,Nari,Acquired through a friend or relative,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 weeks 0 years,Orange tabby/orange tabby with white,,Less then a pound,7,4,8,8
+229,6/7/2023 10:01:00,132,Boss,Adopted through animal shelter/rescue group,,Super Senior (15 years+),17,Brown tabby/brown tabby with white,,7,5,7,3,8
+230,6/7/2023 10:03:28,133,Yogi,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Gray tabby/gray tabby with white,,10 pounds,8,5,5,4
+231,6/7/2023 10:03:52,134,BabyCat,Found as a stray,,Super Senior (15 years+),19.9,Calico,,5 lbs,1,4,1,3
+232,6/7/2023 10:04:11,135,Ben,Adopted through animal shelter/rescue group,,Mature (7--10 years),6,Other,Hes a cream tabby,13,10,7,5,10
+233,6/7/2023 10:05:33,135,Dahlia,Adopted through animal shelter/rescue group,,Senior (11-14 years),5,Solid black,,11,3,7,5,3
+234,6/7/2023 10:06:16,136,Ralph,Adopted through animal shelter/rescue group,,Adult (3--6 years),5,Solid black,,24 lbs,3,4,4,8
+235,6/7/2023 10:08:18,136,Lucy,Found as a stray,,Mature (7--10 years),8,Tortoiseshell,,9,3,8,8,5
+236,6/7/2023 10:14:24,137,Diaphanous,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Solid black,,9.5,8,8,8,8
+237,6/7/2023 10:16:32,138,Smokey,Adopted through animal shelter/rescue group,,Mature (7--10 years),4,Gray tuxedo (gray and white),,9.6,1,6,6,10
+238,6/7/2023 10:25:01,137,Paisley,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Calico,,9.8,10,7,4,9
+239,6/7/2023 10:27:00,137,Piper,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Brown tabby/brown tabby with white,,7.5,2,5,6,3
+240,6/7/2023 10:28:27,137,Whiskey,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Other,Fire point siamese,6.5,10,2,8,10
+241,6/7/2023 10:32:38,139,Clark,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Solid gray,,7,10,5,7,2
+242,6/7/2023 10:34:16,139,Kiki,Acquired through a friend or relative,,Senior (11-14 years),12,Gray tuxedo (gray and white),,15,7,8,3,6
+243,6/7/2023 10:44:41,140,Dr Henry Jones. Jr,Found as a stray,,Mature (7--10 years),6,Brown tabby/brown tabby with white,,10,8,8,3,3
+244,6/7/2023 10:46:27,140,Billy Shipton ,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Orange tabby/orange tabby with white,,12,4,3,2,5
+245,6/7/2023 10:46:58,141,Kittles,Bred at home/from owned pet,,Senior (11-14 years),12,Solid black,,?,4,4,3,6
+246,6/7/2023 10:47:04,142,Kitka,Acquired through a friend or relative,,Senior (11-14 years),12,Other,Long hair black and white marbled (non-tuxedo),11,3,4,4,6
+247,6/7/2023 10:56:13,143,Bijou,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Tortoiseshell,,11,5,10,6,6
+248,6/7/2023 10:56:43,144,Jefferson,Acquired through a friend or relative,,Mature (7--10 years),7,Brown tabby/brown tabby with white,,15,8,6,1,4
+249,6/7/2023 10:57:31,143,Cosmo Charlie ,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Classic tuxedo (black and white),,13,8,7,8,10
+250,6/7/2023 10:58:19,145,Chai,Found as a stray,,Adult (3--6 years),2,Brown tabby/brown tabby with white,,10,4,7,5,4
+251,6/7/2023 10:58:26,143,Bijou ,Adopted through animal shelter/rescue group,,Adult (3--6 years),2,Tortoiseshell,,11,6,10,6,6
+252,6/7/2023 10:58:46,144,Oliver,Adopted at a cat cafe,,Adult (3--6 years),6,Classic tuxedo (black and white),,11,6,3,4,5
+253,6/7/2023 10:59:24,144,Eliza,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Classic tuxedo (black and white),,7,10,7,10,7
+254,6/7/2023 10:59:30,146,Girlie,Adopted through animal shelter/rescue group,,Super Senior (15 years+),22,Other,Long hair gray with white blotches,4,9,8,2,6
+255,6/7/2023 11:01:08,147,Jarvis,Acquired through a friend or relative,,Adult (3--6 years),3 years,Orange tabby/orange tabby with white,,14,8,7,3,4
+256,6/7/2023 11:01:58,148,Sly,Acquired through a friend or relative,,Senior (11-14 years),5,Classic tuxedo (black and white),,7.2,6,9,5,2
+257,6/7/2023 11:02:47,149,Orange,Received as a gift,,Senior (11-14 years),13,Orange tabby/orange tabby with white,,17,7,8,2,4
+258,6/7/2023 11:02:50,147,Tank,Adopted through animal shelter/rescue group,,Mature (7--10 years),8 years,Brown tabby/brown tabby with white,,8lbs,10,8,6,7
+259,6/7/2023 11:04:19,147,Trinity,Adopted through animal shelter/rescue group,,Mature (7--10 years),8 years,Brown tabby/brown tabby with white,,9 lbs,5,4,4,9
+260,6/7/2023 11:04:34,148,Sally,Found as a stray,,Senior (11-14 years),11 years,Tortoiseshell,,11.1 lbs,10,10,5,10
+261,6/7/2023 11:05:09,150,Mitchell ,Found as a stray,,Adult (3--6 years),5 years,Solid gray,,14 lbs,3,9,9,8
+262,6/7/2023 11:05:49,147,Kitty Sister,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years,Gray tabby/gray tabby with white,,12 lbs,6,9,9,10
+263,6/7/2023 11:06:18,148,Gracie,Found as a stray,,Adult (3--6 years),6 years,Calico,,8 lbs,1,8,7,2
+264,6/7/2023 11:07:32,150,Mo,Found as a stray,,Super Senior (15 years+),13 years,Tortoiseshell,,6 lbs,10,10,3,9
+265,6/7/2023 11:10:16,151,LILY,Adopted through animal shelter/rescue group,,Mature (7--10 years),7,Solid white,,14,6,10,5,10
+266,6/7/2023 11:10:18,152,Cassandra(Sandy),Found as a stray,,Senior (11-14 years),13 years,Orange tabby/orange tabby with white,,8 pounds,10,9,1,6
+267,6/7/2023 11:14:20,152,Ambrose,Found as a stray,,Adult (3--6 years),5 years,Orange tabby/orange tabby with white,,8 poundspp,10,9,6,10
+268,6/7/2023 11:15:20,153,Mous ,Acquired through a friend or relative,,Senior (11-14 years),13,Classic tuxedo (black and white),,17.6,8,6,4,5
+269,6/7/2023 11:16:17,154,Summer,Received as a gift,,Super Senior (15 years+),17,Gray tabby/gray tabby with white,,9,5,9,4,7
+270,6/7/2023 11:16:33,155,Misty,Purchased from a breeder,,Super Senior (15 years+),16,Tortoiseshell,,I don't know and I'm bad at guessing these things!,4,7,5,8
+271,6/7/2023 11:17:41,154,Louie,Found as a stray,,Mature (7--10 years),7,Classic tuxedo (black and white),,18,2,5,7,8
+272,6/7/2023 11:17:51,155,Nelly,Purchased from a breeder,,Super Senior (15 years+),18,Solid gray,,I'm not sure and I would hate to guess!,8,4,3,5
+273,6/7/2023 11:18:53,152,Shyanne,Found as a stray,,Mature (7--10 years),10 years,Gray tabby/gray tabby with white,,9 pounds no,1,7,2,3
+274,6/7/2023 11:25:31,156,Garfield ,Adopted through animal shelter/rescue group,,Senior (11-14 years),8,Orange tabby/orange tabby with white,,7,3,5,3,8
+275,6/7/2023 11:27:12,157,Basil,Found as a stray,,Super Senior (15 years+),14,Gray tabby/gray tabby with white,,7,4,8,6,3
+276,6/7/2023 11:28:19,157,Parsley,Adopted through animal shelter/rescue group,,Super Senior (15 years+),14,Brown tabby/brown tabby with white,,14,6,4,2,7
+277,6/7/2023 11:29:35,158,Darla,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Brown tabby/brown tabby with white,,11.8,2,8,6,8
+278,6/7/2023 11:30:52,159,Luna,Adopted at a cat cafe,,Adult (3--6 years),3,Brown tabby/brown tabby with white,,7,6,5,5,3
+279,6/7/2023 11:34:01,160,Ben,Adopted at a cat cafe,,Adult (3--6 years),3,Solid black,,14,8,10,8,10
+280,6/7/2023 11:34:50,161,Milo,Adopted through animal shelter/rescue group,,Adult (3--6 years),2,Gray tabby/gray tabby with white,,10,9,4,5,1
+281,6/7/2023 11:35:46,160,Savannah,Adopted through animal shelter/rescue group,,Mature (7--10 years),7,Solid white,,12,1,9,2,9
+282,6/7/2023 11:35:47,162,Tigerlily,Adopted through animal shelter/rescue group,,Adult (3--6 years),4 years,Brown tabby/brown tabby with white,,13.4,8,8,8,10
+283,6/7/2023 11:36:51,160,Nick,Found as a stray,,Super Senior (15 years+),15,Gray tabby/gray tabby with white,,10,10,10,1,10
+284,6/7/2023 11:37:49,162,Clancy,Adopted through animal shelter/rescue group,,Adult (3--6 years),3 years,Solid black,,14,9,7,5,3
+285,6/7/2023 11:38:04,163,Odofin Tutuola ,Purchased from a breeder,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Other,Black smoke ,6,5,5,3,2
+286,6/7/2023 11:41:54,164,Cleo,Found as a stray,,Mature (7--10 years),6,Gray tabby/gray tabby with white,,5,8,8,6,5
+287,6/7/2023 11:48:44,165,Beans,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years,Orange tabby/orange tabby with white,,12 lbs,9,10,8,7
+288,6/7/2023 11:50:11,165,Blanche,Adopted at a cat cafe,,Adult (3--6 years),4years,Orange tabby/orange tabby with white,,15 lbs,9,9,7,8
+289,6/7/2023 11:51:07,166,Ludo,Adopted through animal shelter/rescue group,,Mature (7--10 years),7,Brown tabby/brown tabby with white,,12 pounds,5,10,3,3
+290,6/7/2023 11:51:21,165,Arthur,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years,Gray tabby/gray tabby with white,,10 lbs,10,10,10,2
+291,6/7/2023 11:52:32,165,Chuck,Adopted through animal shelter/rescue group,,Super Senior (15 years+),16 years,Gray tabby/gray tabby with white,,15 lbs,3,8,1,1
+292,6/7/2023 11:52:50,167,Hel,Received as a gift,,Mature (7--10 years),7,Solid black,,10,6,3,8,9
+293,6/7/2023 11:54:31,168,Penny,Found as a stray,,Senior (11-14 years),11 years,Other,"Tri color. Brown, orange, white",12lbs,7,9,1,6
+294,6/7/2023 11:58:03,169,Lugosi,Adopted at a cat cafe,,Adult (3--6 years),3 years,Solid black,,18,3,4,6,5
+295,6/7/2023 11:58:51,169,Boris,Found as a stray,,Adult (3--6 years),1,Solid gray,,15,8,6,7,10
+296,6/7/2023 12:01:55,170,Elphie,Adopted through animal shelter/rescue group,,Mature (7--10 years),7 years,Other,Golden/sand color- comparable to British longhair cats ,6.8 pounds,10,4,5,1
+297,6/7/2023 12:02:13,171,Mindy,Adopted through animal shelter/rescue group,,Mature (7--10 years),8,Orange tabby/orange tabby with white,,8 pounds ,2,5,4,7
+298,6/7/2023 12:07:55,172,Everest,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Solid white,,14,8,7,4,5
+299,6/7/2023 12:08:45,172,Phantom,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Gray tuxedo (gray and white),,8,5,4,7,2
+300,6/7/2023 12:14:21,173,Millie,Acquired through a friend or relative,,Mature (7--10 years),1 year,Gray tuxedo (gray and white),,8 lbs,6,5,3,3
+301,6/7/2023 12:30:03,174,Porsche,Adopted through animal shelter/rescue group,,Mature (7--10 years),10,Brown tabby/brown tabby with white,,13,8,8,6,5
+302,6/7/2023 12:31:28,174,Jynx,Adopted through animal shelter/rescue group,,Mature (7--10 years),10,Solid black,,13,8,9,5,10
+303,6/7/2023 12:44:13,175,Zach,Adopted through animal shelter/rescue group,,Adult (3--6 years),6,Orange tabby/orange tabby with white,,15,9,10,8,9
+304,6/7/2023 12:45:12,175,Zoey,Adopted through animal shelter/rescue group,,Adult (3--6 years),6,Orange tabby/orange tabby with white,,14,5,8,6,9
+305,6/7/2023 12:48:01,176,Bandit,Adopted through animal shelter/rescue group,,Senior (11-14 years),11,Classic tuxedo (black and white),,9,2,9,7,8
+306,6/7/2023 12:55:27,177,Jasmine,Purchased from a breeder,,Super Senior (15 years+),23,Seal point,,4.2,8,8,3,10
+307,6/7/2023 12:57:00,178,Alexander Nathaniel Hamilkitty,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Orange tabby/orange tabby with white,,12,9,5,6,3
+308,6/7/2023 12:58:19,178,Hudson Graham Hamilkitty,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Orange tabby/orange tabby with white,,10,3,7,6,2
+309,6/7/2023 13:00:15,179,Deino,Acquired through a friend or relative,,Mature (7--10 years),7,Brown tabby/brown tabby with white,,13,1,7,3,8
+310,6/7/2023 13:00:53,180,sophie,Purchased from a pet store,,Super Senior (15 years+),17,Brown tabby/brown tabby with white,,10,10,6,3,10
+311,6/7/2023 13:02:17,179,Eris,Acquired through a friend or relative,,Adult (3--6 years),4,Solid black,,14,6,3,6,4
+312,6/7/2023 13:05:38,179,Meatloaf ,Adopted through animal shelter/rescue group,,Mature (7--10 years),6,Brown tabby/brown tabby with white,,14,3,4,2,4
+313,6/7/2023 13:03:47,179,Pancake ,Found as a stray,,Adult (3--6 years),3,Orange tabby/orange tabby with white,,15,9,2,8,9
+314,6/7/2023 13:03:35,181,Myles,Adopted at a cat cafe,,Adult (3--6 years),5,Other,White with dark and light brown patches,18,5,9,3,5
+315,6/7/2023 13:06:14,181,Zeke,Adopted at a cat cafe,,Adult (3--6 years),4,Brown tabby/brown tabby with white,,11,10,9,7,3
+316,6/7/2023 13:08:35,181,"Howard The Janitor(Yes, that's a real name)",Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Orange tabby/orange tabby with white,,10,8,3,5,6
+317,6/7/2023 13:09:16,179,Mel,Acquired through a friend or relative,,Mature (7--10 years),10,Calico,,16,10,4,2,2
+318,6/7/2023 13:12:23,182,Toothless,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Solid black,,7,1,7,5,10
+319,6/7/2023 13:14:25,183,Carly,Found as a stray,,Mature (7--10 years),9 years,Gray tabby/gray tabby with white,,7 lbs,10,8,6,1
+320,6/7/2023 13:16:09,183,William,Found as a stray,,Mature (7--10 years),9 years ,Gray tabby/gray tabby with white,,11 lbs,8,1,1,1
+321,6/7/2023 13:19:13,184,Ramses,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Orange tabby/orange tabby with white,,10,8,9,9,8
+322,6/7/2023 13:20:39,184,Panda,Found as a stray,,Senior (11-14 years),13,Classic tuxedo (black and white),,12,4,7,4,7
+323,6/7/2023 13:21:58,184,Peony,Found as a stray,,Senior (11-14 years),7,Other,Torbie,8,10,8,5,2
+324,6/7/2023 13:25:59,185,Dibley,Adopted through animal shelter/rescue group,,Mature (7--10 years),8,Calico,,8,7,5,8,10
+325,6/7/2023 13:26:06,186,Pretzels ,Adopted at a cat cafe,,Adult (3--6 years),Three years ,Gray tabby/gray tabby with white,,11,6,5,3,6
+326,6/7/2023 13:27:24,185,Jango,Adopted through animal shelter/rescue group,,Super Senior (15 years+),16,Calico,,8,2,9,3,2
+327,6/7/2023 13:37:03,187,Misa,Found as a stray,,Mature (7--10 years),9years,Orange tabby/orange tabby with white,,8lbs,7,7,5,6
+328,6/7/2023 13:40:22,188,Ty,Acquired through a friend or relative,,Super Senior (15 years+),18 years,Seal point,,21 lbs,10,5,4,10
+329,6/7/2023 13:39:19,188,Darby,Acquired through a friend or relative,,Super Senior (15 years+),18 years,Seal point,,12 lbs,5,9,3,10
+330,6/7/2023 13:41:34,188,Shrimp,Found as a stray,,Senior (11-14 years),12 years ,Solid black,,13 lbs,3,5,5,1
+331,6/7/2023 13:42:24,189,Rosabell,Acquired through a friend or relative,,Mature (7--10 years),10,Gray tabby/gray tabby with white,,7,8,5,2,3
+332,6/7/2023 13:43:46,189,Kraggle,Bred at home/from owned pet,,Mature (7--10 years),8,Solid black,,5,9,4,5,8
+333,6/7/2023 13:54:33,190,Oscar ,Acquired through a friend or relative,,Adult (3--6 years),5 years,Classic tuxedo (black and white),,10 lbs,1,7,5,2
+334,6/7/2023 13:56:29,190,Clare,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1.5 years,Calico,,5 lbs (she's a dwarf kitty),10,10,10,8
+335,6/7/2023 13:58:50,190,Sissy,Found as a stray,,Adult (3--6 years),3 years,Other,Flame point siamese ,9.5 lbs,2,5,5,2
+336,6/7/2023 14:00:19,190,Cali,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years ,Calico,,10 lbs,2,7,6,3
+337,6/7/2023 14:07:01,191,Calico,Found as a stray,,Adult (3--6 years),3 years,Calico,,10 lbs,1,8,7,9
+338,6/7/2023 14:08:39,191,Klickitat,Purchased from a breeder,,Senior (11-14 years),14,Seal point,,14 lbs,10,10,3,10
+339,6/7/2023 14:20:08,192,Pancake,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Solid black,,12,1,8,7,4
+340,6/7/2023 14:34:54,193,Taz,Adopted at a cat cafe,,Adult (3--6 years),3,Other,Brown arrowhead Bengal markings,12,10,2,2,8
+341,6/7/2023 14:37:17,194,Pepper,Found as a stray,,Mature (7--10 years),5 Years,Gray tabby/gray tabby with white,,11 pounds,3,1,1,1
+342,6/7/2023 14:39:30,195,Mr. Boy,Adopted at a cat cafe,,Mature (7--10 years),3,Gray tuxedo (gray and white),,15,5,9,3,6
+343,6/7/2023 14:41:11,195,Chrissy,Adopted at a cat cafe,,Adult (3--6 years),2,Gray tuxedo (gray and white),,8,2,4,7,2
+344,6/7/2023 14:55:59,196,Mookie,Adopted through animal shelter/rescue group,,Adult (3--6 years),5,Gray tabby/gray tabby with white,,16,7,9,7,8
+345,6/7/2023 14:57:11,197,Apollo,Adopted through animal shelter/rescue group,,Adult (3--6 years),6,Orange tabby/orange tabby with white,,10,7,5,5,9
+346,6/7/2023 14:58:00,197,Icarus,Acquired through a friend or relative,,Mature (7--10 years),9,Gray tabby/gray tabby with white,,14,2,5,4,5
+347,6/7/2023 15:02:19,198,Bruiser ,Adopted through animal shelter/rescue group,,Adult (3--6 years),1,Solid gray,,20,10,10,3,10
+348,6/7/2023 15:08:01,199,Lulu,Adopted through animal shelter/rescue group,,Mature (7--10 years),9,Other,Dilute torbie,7.5,8,7,8,5
+349,6/7/2023 15:12:34,200,Scratch,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,7,Solid black,,14,10,8,7,2
+350,6/7/2023 15:18:24,201,Chloe,Acquired through a friend or relative,,Senior (11-14 years),10 years,Brown tabby/brown tabby with white,,11,8,7,5,7
+351,6/7/2023 15:19:53,202,Marble,Adopted through animal shelter/rescue group,,Super Senior (15 years+),15,Other,Buff/tan,16,8,8,3,10
+352,6/7/2023 15:21:29,202,Pistol Pete,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Brown tabby/brown tabby with white,,14,8,7,7,5
+353,6/7/2023 15:23:19,202,Miss Purrscilla,Adopted at a cat cafe,,Adult (3--6 years),3,Calico,,9,3,6,7,2
+354,6/7/2023 15:24:53,203,Cupcake,Adopted through animal shelter/rescue group,,Senior (11-14 years),11,Classic tuxedo (black and white),,10,4,7,6,7
+355,6/7/2023 15:28:32,204,Dipstick ,Acquired through a friend or relative,,Adult (3--6 years),3,Tortoiseshell,,6.6,7,9,5,9
+356,6/7/2023 15:27:20,204,Fuzzums,Acquired through a friend or relative,,Adult (3--6 years),3,Tortoiseshell,,5.5,3,1,5,2
+357,6/7/2023 15:34:28,129,Theo,Received as a gift,,Adult (3--6 years),4,Classic tuxedo (black and white),,15,8,8,3,8
+358,6/7/2023 15:35:15,205,Boo Radley,Acquired through a friend or relative,,Mature (7--10 years),10,Brown tabby/brown tabby with white,,15,5,8,5,3
+359,6/7/2023 15:35:37,129,Theo,Received as a gift,,Adult (3--6 years),4,Classic tuxedo (black and white),,12,8,2,5,5
+360,6/7/2023 15:37:21,129,Aurora,Purchased from a breeder,,Adult (3--6 years),5,Other,She is half spyhnx and half siamese,13,2,8,6,4
+361,6/7/2023 15:43:21,206,Arya,Acquired through a friend or relative,,Senior (11-14 years),11,Classic tuxedo (black and white),,21,3,7,2,1
+362,6/7/2023 15:44:31,206,Sophie,Acquired through a friend or relative,,Senior (11-14 years),11,Gray tabby/gray tabby with white,,22,1,1,1,1
+363,6/7/2023 15:44:59,207,Sir Winston,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,One year,Solid black,,9 pounds,8,8,9,7
+364,6/7/2023 15:49:18,208,Kitten,Found as a stray,,Senior (11-14 years),12 years,Tortoiseshell,,11,10,7,10,8
+365,6/7/2023 16:05:18,149,Ava,Acquired through a friend or relative,,Adult (3--6 years),4,Solid black,,7,4,8,6,2
+366,6/7/2023 16:07:38,149,Sable,Found as a stray,,Adult (3--6 years),3,Solid black,,9,5,8,7,5
+367,6/7/2023 16:10:06,209,Sabrina,Adopted through animal shelter/rescue group,,Super Senior (15 years+),19,Other,Gray with ivory around the face and peach highlights on the body.,10 lbs,10,9,6,8
+368,6/7/2023 16:10:13,149,Cheeto,Found as a stray,,Adult (3--6 years),1,Brown tabby/brown tabby with white,,14,10,9,8,9
+369,6/7/2023 16:12:17,209,Aubrey,Adopted through animal shelter/rescue group,,Senior (11-14 years),13,Tortoiseshell,,10 lbs,5,8,6,8
+370,6/7/2023 16:13:52,210,Nightmare,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,He will be 2 in august and I got him the day he was able to be separated from his mom,Solid black,,20,10,2,5,10
+371,6/7/2023 16:17:39,210,Hash E. Brown,Acquired through a friend or relative,,Adult (3--6 years),6 months,Orange tabby/orange tabby with white,,28,6,3,3,2
+372,6/7/2023 16:23:03,210,Natika,Adopted through animal shelter/rescue group,,Mature (7--10 years),4 years,Other,She’s a blue Persian who is mostly grey but has brown spots,23lbs,1,4,1,6
+373,6/7/2023 16:24:22,210,Midnight,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 in July ,Solid black,,9 lbs,1,1,7,7
+374,6/7/2023 16:58:21,211,Roach,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1 ( he was tiny when found - had to feed with formula and bottle),Gray tabby/gray tabby with white,,8,8,7,5,4
+375,6/7/2023 17:11:17,212,Tictic,Found as a stray,,Adult (3--6 years),5,Other,Chocolate w. black points; classic siamese ,17,8,4,4,2
+376,6/7/2023 17:14:08,213,Romy,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,12 years,Orange tabby/orange tabby with white,,12lbs,3,3,3,6
+377,6/7/2023 17:15:19,213,Brynn,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,3years,Solid black,,15lbs,8,6,6,5
+378,6/7/2023 17:21:19,214,Pumpkin,Found as a stray,,Mature (7--10 years),8,Orange tabby/orange tabby with white,,14,10,3,5,8
+379,6/7/2023 17:27:56,215,Hera,Acquired through a friend or relative,,Senior (11-14 years),13,Calico,,9.5 lbs,6,9,3,4
+380,6/7/2023 17:54:33,216,Will Feral,Adopted at a cat cafe,,Senior (11-14 years),3,Orange tabby/orange tabby with white,,12,1,7,6,10
+381,6/7/2023 17:57:34,216,Izzabella,Adopted through animal shelter/rescue group,,Senior (11-14 years),14,Brown tabby/brown tabby with white,,11,10,8,6,8
+382,6/7/2023 17:57:51,217,Lyla,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,9,Gray tabby/gray tabby with white,,8.5 lbs,6,10,5,3
+383,6/7/2023 17:59:04,216,LillyBiscuit ,Adopted through animal shelter/rescue group,,Mature (7--10 years),1,Orange tabby/orange tabby with white,,10,10,8,8,10
+384,6/7/2023 17:59:41,217,Theo,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,4,Brown tabby/brown tabby with white,,19.5 lbs,1,1,6,1
+385,6/7/2023 18:00:52,216,Blaze,Adopted through animal shelter/rescue group,,Adult (3--6 years),1,Orange tabby/orange tabby with white,,12,6,8,7,5
+386,6/7/2023 18:03:41,216,Zamee,Found as a stray,,Super Senior (15 years+),15,Solid black,,8,5,8,5,10
+387,6/7/2023 18:06:51,216,Ellee,Acquired through a friend or relative,,Senior (11-14 years),8,Classic tuxedo (black and white),,13,10,8,3,5
+388,6/7/2023 18:13:19,218,Orangellow,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Orange tabby/orange tabby with white,,12,10,10,9,7
+389,6/7/2023 18:32:29,219,Cthulhu ,Acquired through a friend or relative,,Super Senior (15 years+),15,Solid black,,14.8 lbs,5,6,4,6
+390,6/7/2023 18:34:57,219,Bowie,Found as a stray,,Senior (11-14 years),11,Solid white,,12 lbs,10,6,7,8
+391,6/7/2023 20:37:33,220,Fluff,Acquired through a friend or relative,,Senior (11-14 years),11years,Gray tuxedo (gray and white),,8 lbs,9,7,3,2
+392,6/7/2023 20:54:27,221,Storm,Found as a stray,,Senior (11-14 years),11,Orange tabby/orange tabby with white,,12,3,8,4,2
+393,6/7/2023 20:56:47,221,Rain,Acquired through a friend or relative,,Senior (11-14 years),11,Calico,,12,5,9,3,3
+394,6/7/2023 21:00:05,221,Malcolm ,Adopted through animal shelter/rescue group,,Mature (7--10 years),5,Other,Butterscotch and white,12,2,7,7,10
+395,6/7/2023 21:18:11,222,Kitty,Acquired through a friend or relative,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,3,Calico,,6,10,10,7,4
+396,6/7/2023 21:19:28,222,Miko,Acquired through a friend or relative,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Orange tabby/orange tabby with white,,12,3,1,4,9
+397,6/7/2023 21:48:42,223,Fezziwig,Found as a stray,,Adult (3--6 years),3 years,Orange tabby/orange tabby with white,,11 lbs,2,7,7,3
+398,6/7/2023 21:49:12,224,Chauncey,Found as a stray,,Super Senior (15 years+),14,Brown tabby/brown tabby with white,,11,8,7,3,4
+399,6/7/2023 21:49:59,225,Jeffery Allen Goldblum,Acquired through a friend or relative,,Adult (3--6 years),4 yrs 3 mo,Gray tabby/gray tabby with white,,24,8,7,8,8
+400,6/7/2023 21:50:12,223,Rizzo,Found as a stray,,Adult (3--6 years),6 years,Gray tabby/gray tabby with white,,16 lbs,8,7,6,2
+401,6/7/2023 22:01:20,224,Travis,Adopted through animal shelter/rescue group,,Senior (11-14 years),14,Gray tuxedo (gray and white),,17,3,3,3,3
+402,6/7/2023 22:02:43,224,Lola,Adopted through animal shelter/rescue group,,Super Senior (15 years+),15,Solid black,,7,8,9,7,10
+403,6/7/2023 22:41:25,226,Morgan,Found as a stray,,Super Senior (15 years+),16,Solid black,,9,10,5,3,10
+404,6/7/2023 22:42:55,226,Mook,Found as a stray,,Super Senior (15 years+),15,Solid white,,12,6,1,2,6
+405,6/7/2023 22:44:06,226,Thomas,Found as a stray,,Senior (11-14 years),11,Orange tabby/orange tabby with white,,13,8,3,4,4
+406,6/7/2023 22:45:27,226,Newt,Found as a stray,,Mature (7--10 years),8,Classic tuxedo (black and white),,13,1,3,6,2
+407,6/7/2023 22:46:47,226,Nacho,Found as a stray,,Adult (3--6 years),5,Orange tabby/orange tabby with white,,12,10,4,8,3
+408,6/7/2023 22:48:20,226,Mojito,Found as a stray,,Adult (3--6 years),4,Other,Lynx point Siamese mix,14,1,1,4,4
+409,6/7/2023 22:49:28,226,L.C.,Acquired through a friend or relative,,Mature (7--10 years),3,Gray tabby/gray tabby with white,,8,1,4,3,1
+410,6/7/2023 22:51:17,226,Whisper AKA Stinky,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Gray tabby/gray tabby with white,,5,1,1,5,5
+411,6/7/2023 22:54:55,227,Tink,Found as a stray,,Mature (7--10 years),9,Solid black,,9,8,9,6,7
+412,6/7/2023 22:56:02,227,Cozy,Adopted through animal shelter/rescue group,,Mature (7--10 years),8,Gray tuxedo (gray and white),,10,1,5,2,2
+413,6/7/2023 22:57:27,227,Kenzie,Found as a stray,,Adult (3--6 years),6,Solid black,,12,6,1,4,6
+414,6/7/2023 22:59:25,227,Bethie McMoo,Found as a stray,,Adult (3--6 years),6,Other,Black and White -cow pattern,11,6,7,4,3
+415,6/7/2023 23:00:40,227,Tavi McMoo,Found as a stray,,Adult (3--6 years),6,Other,Black and white - cow pattern,13,3,6,6,7
+416,6/7/2023 23:01:39,227,Lumi,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Classic tuxedo (black and white),,8,9,9,10,9
+417,6/7/2023 23:02:49,227,Snowball,Found as a stray,,Super Senior (15 years+),15,Solid white,,10,8,7,6,7
+418,6/7/2023 23:04:27,227,Scout,Acquired through a friend or relative,,Super Senior (15 years+),13,Gray tuxedo (gray and white),,9,8,5,2,4
+419,6/7/2023 23:05:49,227,Blue,Found as a stray,,Adult (3--6 years),4,Tortoiseshell,,9,2,8,2,4
+420,6/7/2023 23:06:56,227,Gracie,Acquired through a friend or relative,,Mature (7--10 years),2,Tortoiseshell,,12,4,5,2,8
+421,6/7/2023 23:10:28,227,Charlotte,Found as a stray,,Adult (3--6 years),4,Calico,,10,1,5,3,1
+422,6/7/2023 23:21:12,228,Baby girl cat ,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Solid black,,7 lbs ,8,8,4,2
+423,6/7/2023 23:31:40,229,Bruce,Adopted through animal shelter/rescue group,,Mature (7--10 years),3,Classic tuxedo (black and white),,15lbs,10,8,7,5
+424,6/7/2023 23:39:18,230,Walker,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Gray tabby/gray tabby with white,,6,10,9,9,8
+425,6/8/2023 3:30:54,231,Violet,Purchased from a breeder,,Mature (7--10 years),7,Gray tabby/gray tabby with white,,14,7,6,4,9
+426,6/8/2023 3:33:47,231,Charlie ,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Other,Black tuxedo ,9,6,8,6,6
+427,6/8/2023 3:37:45,232,Callie,Purchased from a pet store,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,8,Solid gray,,9,1,10,5,5
+428,6/8/2023 4:57:12,233,Pickles,Acquired through a friend or relative,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Orange tabby/orange tabby with white,,7lbs,8,2,10,8
+429,6/8/2023 5:00:13,233,Harrison,Bred at home/from owned pet,,Super Senior (15 years+),15 years,Gray tabby/gray tabby with white,,8lbs,3,8,3,8
+430,6/8/2023 7:00:43,234,Cali,Adopted through animal shelter/rescue group,,Mature (7--10 years),4,Calico,,11,3,7,4,3
+431,6/8/2023 7:02:14,234,Stella,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Brown tabby/brown tabby with white,,11,3,7,3,6
+432,6/8/2023 7:03:50,234,Sage,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Brown tabby/brown tabby with white,,9,10,7,7,7
+433,6/8/2023 7:05:04,234,Bella,Received as a gift,,Mature (7--10 years),10,Gray tabby/gray tabby with white,,10,9,7,7,6
+434,6/8/2023 7:52:37,235,Kaya,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Calico,,11,2,5,7,10
+435,6/8/2023 8:13:18,236,Nala,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Gray tabby/gray tabby with white,,14 lb,5,7,6,9
+436,6/8/2023 8:14:43,236,Simba,Adopted through animal shelter/rescue group,,Adult (3--6 years),3,Gray tabby/gray tabby with white,,15 lb,7,6,3,3
+437,6/8/2023 9:21:49,237,Anakin,Adopted at a cat cafe,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Orange tabby/orange tabby with white,,10,3,8,5,6
+438,6/8/2023 11:45:59,238,Cali,Adopted through animal shelter/rescue group,,Adult (3--6 years),4,Calico,,12,3,7,3,8
+439,6/8/2023 11:47:05,238,Victoria,Received as a gift,,Adult (3--6 years),6,Classic tuxedo (black and white),,14,10,10,8,10
+440,6/8/2023 11:49:14,238,Toast,Adopted through animal shelter/rescue group,,Mature (7--10 years),4,Tortoiseshell,,8,5,8,10,10
+441,6/8/2023 11:50:27,238,Lilly ,Adopted through animal shelter/rescue group,,Adult (3--6 years),5,Gray tabby/gray tabby with white,,14,10,9,7,10
+442,6/8/2023 15:15:11,239,Alice,Found as a stray,,Adult (3--6 years),3,Solid white,,7,8,4,5,8
+443,6/8/2023 18:30:50,240,Maude,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Calico,,14,8,8,2,2
+444,6/8/2023 21:59:11,241,Butter,Adopted through animal shelter/rescue group,,Mature (7--10 years),7 years,Orange tabby/orange tabby with white,,10,3,5,4,9
+445,6/8/2023 22:17:32,242,Leo,Found as a stray,,Adult (3--6 years),3years,Orange tabby/orange tabby with white,,5 lbs,4,4,7,3
+446,6/8/2023 22:32:16,243,Eureka,Found as a stray,,Senior (11-14 years),13,Orange tabby/orange tabby with white,,6,8,4,2,10
+447,6/8/2023 22:42:31,243,Zeus,Found as a stray,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,13,Orange tabby/orange tabby with white,,10,9,8,3,8
+448,6/8/2023 22:44:05,243,Bandit,Found as a stray,,Adult (3--6 years),3,Solid black,,7,6,6,7,7
+449,6/8/2023 22:45:32,243,Ozma,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Classic tuxedo (black and white),,12,9,10,10,10
+450,6/8/2023 23:09:43,244,Harley ,Adopted through animal shelter/rescue group,,Adult (3--6 years),2,Gray tabby/gray tabby with white,,21,9,9,3,3
+451,6/8/2023 23:11:18,244,Corbin ,Found as a stray,,Senior (11-14 years),13,Brown tabby/brown tabby with white,,18,1,7,2,5
+452,6/8/2023 23:12:45,244,Cooper,Found as a stray,,Adult (3--6 years),3,Orange tabby/orange tabby with white,,15,6,8,5,5
+453,6/8/2023 23:14:01,244,Stevie,Found as a stray,,Adult (3--6 years),3,Solid gray,,16,1,7,5,4
+454,6/8/2023 23:15:12,244,Tebby,Found as a stray,,Adult (3--6 years),2,Classic tuxedo (black and white),,13,6,6,6,6
+455,6/9/2023 6:58:52,245,Fizzy Orange,Found as a stray,,Adult (3--6 years),2,Orange tabby/orange tabby with white,,15,10,6,6,4
+456,6/9/2023 7:00:59,245,Jiggy,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1year,Orange tabby/orange tabby with white,,20 pounds,8,2,5,4
+457,6/9/2023 7:03:11,245,Tot,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Other,Muted tortie,5,2,8,6,1
+458,6/9/2023 7:05:33,245,Boo boo kitty,Adopted through animal shelter/rescue group,,Senior (11-14 years),3 years,Other,Black and white,10,4,9,3,3
+459,6/9/2023 9:09:18,246,Mouse,Acquired through a friend or relative,,Mature (7--10 years),7,Calico,,11,2,7,5,9
+460,6/9/2023 9:10:49,246,Big Boy,Adopted through animal shelter/rescue group,,Adult (3--6 years),5,Gray tabby/gray tabby with white,,18,9,5,6,5
+461,6/9/2023 9:28:46,247,Serena ,Acquired through a friend or relative,,Adult (3--6 years),5 years,Solid black,,7,4,8,5,2
+462,6/9/2023 9:29:50,247,Venus,Acquired through a friend or relative,,Adult (3--6 years),5,Solid gray,,8,4,4,4,7
+463,6/9/2023 9:31:15,247,Kylo,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2,Brown tabby/brown tabby with white,,10,8,8,8,8
+464,6/9/2023 18:17:45,248,Razzle,Adopted at a cat cafe,,Mature (7--10 years),5,Classic tuxedo (black and white),,16,6,7,2,5
+465,6/9/2023 18:40:37,249,Nico,Acquired through a friend or relative,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,2 years,Orange tabby/orange tabby with white,,10 pounds,3,3,3,8
+466,6/9/2023 18:41:42,249,Remy,Adopted through animal shelter/rescue group,,Kitten (Birth--6 months) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,3 years,Gray tabby/gray tabby with white,,9 pounds,1,5,1,5
+467,6/10/2023 10:34:56,250,Billie,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1 year,Orange tabby/orange tabby with white,,8 lbs,8,10,4,4
+468,6/10/2023 21:50:46,251,Kat,Acquired through a friend or relative,,Senior (11-14 years),11,Gray tabby/gray tabby with white,,112,5,6,4,8
+469,6/11/2023 15:19:14,252,Zeus,Received as a gift,,Adult (3--6 years),2018,Brown tabby/brown tabby with white,,10lbs,5,8,10,5
+470,6/13/2023 8:13:05,253,Cowboy,Adopted through animal shelter/rescue group,,Adult (3--6 years),5,Classic tuxedo (black and white),,20,10,8,3,2
+471,6/13/2023 15:55:35,254,Karibu,Adopted through animal shelter/rescue group,,Mature (7--10 years),7 years,Solid black,,roughly 9 lbs,4,9,3,8
+472,6/13/2023 19:54:33,255,Cash,Found as a stray,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Solid black,,7,3,10,4,8
+473,6/13/2023 19:56:02,255,Penny,Adopted through animal shelter/rescue group,,Junior (7 months--2 years) KITTENS UNDER 1 YEAR OLD MAY NOT BE INCLUDED IN THE FINAL ANALYSIS,1,Brown tabby/brown tabby with white,,8,1,5,2,3
+474,7/6/2023 11:41:41,256,Morty,Adopted at a cat cafe,,Adult (3--6 years),4,Solid black,,12,1,1,2,10
+475,7/6/2023 11:46:57,256,Indiana,Adopted at a cat cafe,,Adult (3--6 years),4,Orange tabby/orange tabby with white,,15,5,8,3,2
+476,7/6/2023 11:48:30,256,Jaxie,Found as a stray,,Adult (3--6 years),3,Orange tabby/orange tabby with white,,10,2,8,5,6
