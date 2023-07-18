@@ -1,0 +1,511 @@
+,status,primary_color,secondary_color,name,full_color
+0,shelter_or_rescue,Black,Brown,Faith,Black Brown
+1,shelter_or_rescue,Grey,,Prancer,Grey 
+2,shelter_or_rescue,Black,White,Gabriel,Black White
+3,shelter_or_rescue,Black,White,Zora,Black White
+4,shelter_or_rescue,Black,White,Frisky,Black White
+5,shelter_or_rescue,Tortoiseshell,,Athena,Tortoiseshell 
+6,shelter_or_rescue,Torbie,,Luna,Torbie 
+7,shelter_or_rescue,Torbie,,Luna,Torbie 
+8,shelter_or_rescue,Tortoiseshell,,Athena,Tortoiseshell 
+9,shelter_or_rescue,Black,White,Frank,Black White
+10,shelter_or_rescue,Black,,Magnolia,Black 
+11,shelter_or_rescue,"Black 
+Tortoiseshell",,"Princess Fluffy 
+Tail","Black 
+Tortoiseshell "
+12,shelter_or_rescue,Brown Tabby,,Happy,Brown Tabby 
+13,shelter_or_rescue,Brown Tabby,,Grumpy,Brown Tabby 
+14,shelter_or_rescue,Brown Tabby,,Sheila,Brown Tabby 
+15,shelter_or_rescue,Grey,,Flower,Grey 
+16,shelter_or_rescue,Orange Tabby,,Salt,Orange Tabby 
+17,shelter_or_rescue,Torbie,,Teavee,Torbie 
+18,shelter_or_rescue,Torbie,,Bucket,Torbie 
+19,shelter_or_rescue,Buff,,Maya,Buff 
+20,shelter_or_rescue,Tortoiseshell,,Flower,Tortoiseshell 
+21,shelter_or_rescue,Grey,,Brett,Grey 
+22,shelter_or_rescue,Grey,,Rhett,Grey 
+23,shelter_or_rescue,Smoke,,Fuzzy,Smoke 
+24,shelter_or_rescue,"Black 
+Tortoiseshell",,Misty,"Black 
+Tortoiseshell "
+25,shelter_or_rescue,Black,,Saber,Black 
+26,shelter_or_rescue,Black,,Sweeny,Black 
+27,shelter_or_rescue,Black,,Henry,Black 
+28,shelter_or_rescue,White,Black,Charlie,White Black
+29,shelter_or_rescue,Black,,Dale,Black 
+30,shelter_or_rescue,"Black 
+Tortoiseshell",,Ozielle,"Black 
+Tortoiseshell "
+31,shelter_or_rescue,Black,,Precious,Black 
+32,shelter_or_rescue,White,Black,Lil O.G.,White Black
+33,shelter_or_rescue,Grey,,Buddy,Grey 
+34,shelter_or_rescue,Tortoiseshell,,Gloop,Tortoiseshell 
+35,shelter_or_rescue,Black,,Eclipse,Black 
+36,shelter_or_rescue,Buff,,Sherbert,Buff 
+37,shelter_or_rescue,Brown Tabby,,Olaf,Brown Tabby 
+38,shelter_or_rescue,Black,,Lil Bean Sprout,Black 
+39,shelter_or_rescue,Tortoiseshell,,Trixie,Tortoiseshell 
+40,shelter_or_rescue,Grey Tabby,,Meatball,Grey Tabby 
+41,shelter_or_rescue,Brown Tabby,,Spaghetti,Brown Tabby 
+42,shelter_or_rescue,Muted Calico,,Salt,Muted Calico 
+43,shelter_or_rescue,Muted Calico,,Pepper,Muted Calico 
+44,shelter_or_rescue,Muted Calico,White,Ketch,Muted Calico White
+45,shelter_or_rescue,Buff,White,Sketch,Buff White
+46,shelter_or_rescue,White,,Sadie,White 
+47,shelter_or_rescue,Brown Tabby,,Sammie,Brown Tabby 
+48,shelter_or_rescue,Buff,White,Vincent ,Buff White
+49,shelter_or_rescue,Blue,White,Celery,Blue White
+50,shelter_or_rescue,Black,,Alli Cat,Black 
+51,shelter_or_rescue,Black,,Wesley,Black 
+52,shelter_or_rescue,Grey Tabby,White,Meri,Grey Tabby White
+53,shelter_or_rescue,Torbie,White,Tammy,Torbie White
+54,shelter_or_rescue,White,Brown Tabby,Holly,White Brown Tabby
+55,shelter_or_rescue,Brown Tabby,White,Robin,Brown Tabby White
+56,shelter_or_rescue,Buff,White,Fluffy,Buff White
+57,shelter_or_rescue,Orange Tabby,White,James,Orange Tabby White
+58,shelter_or_rescue,Grey Tabby,,Miller,Grey Tabby 
+59,shelter_or_rescue,Black,White,Barney,Black White
+60,shelter_or_rescue,Brown Tabby,,Rory,Brown Tabby 
+61,shelter_or_rescue,Brown Tabby,,Beau,Brown Tabby 
+62,shelter_or_rescue,Grey,,Felix,Grey 
+63,shelter_or_rescue,Brown Tabby,,Artimus,Brown Tabby 
+64,shelter_or_rescue,Grey,White,Judy,Grey White
+65,shelter_or_rescue,Grey,,Murr,Grey 
+66,shelter_or_rescue,Orange Tabby,,Cameron,Orange Tabby 
+67,shelter_or_rescue,Black,White,Jack O'Lantern,Black White
+68,shelter_or_rescue,Black,,Dora,Black 
+69,shelter_or_rescue,Black,,Alex,Black 
+70,shelter_or_rescue,Black,,Adam,Black 
+71,shelter_or_rescue,Black,,Arnold,Black 
+72,shelter_or_rescue,Cream,,Icy,Cream 
+73,shelter_or_rescue,Tortoiseshell,,Sly,Tortoiseshell 
+74,shelter_or_rescue,Tortoiseshell,,Ivy,Tortoiseshell 
+75,shelter_or_rescue,Black,White,Frenchie,Black White
+76,shelter_or_rescue,Orange Tiger,,Anson,Orange Tiger 
+77,shelter_or_rescue,Brown Tabby,White,Leslie,Brown Tabby White
+78,shelter_or_rescue,Brown Tabby,,Shimmer,Brown Tabby 
+79,shelter_or_rescue,White,Grey,Gloria,White Grey
+80,shelter_or_rescue,Brown Tabby,,Buttercup,Brown Tabby 
+81,shelter_or_rescue,Brown Tabby,,Buzz,Brown Tabby 
+82,shelter_or_rescue,Grey,White,Woody,Grey White
+83,shelter_or_rescue,Orange Tabby,White,Sid,Orange Tabby White
+84,shelter_or_rescue,Buff Tiger,White,Rex,Buff Tiger White
+85,shelter_or_rescue,Grey,,Smokey,Grey 
+86,shelter_or_rescue,Brown Tabby,White,Tobi,Brown Tabby White
+87,shelter_or_rescue,Silver Tabby,White,Lester,Silver Tabby White
+88,shelter_or_rescue,Black,,Dora,Black 
+89,shelter_or_rescue,Orange Tabby,,Hashbrown,Orange Tabby 
+90,shelter_or_rescue,Blue,,Traxx,Blue 
+91,shelter_or_rescue,Black,White,Oreo,Black White
+92,shelter_or_rescue,Calico,,Spring Roll,Calico 
+93,shelter_or_rescue,"Black 
+Tortoiseshell",,Cranberry,"Black 
+Tortoiseshell "
+94,shelter_or_rescue,Orange Tabby,White,Gravy,Orange Tabby White
+95,shelter_or_rescue,Orange Tabby,,Mash Tater,Orange Tabby 
+96,shelter_or_rescue,Grey Tabby,,Brent,Grey Tabby 
+97,shelter_or_rescue,Orange Tabby,,Gary,Orange Tabby 
+98,shelter_or_rescue,Muted Calico,,Taylor,Muted Calico 
+99,shelter_or_rescue,Black,White,Lilly Bug,Black White
+100,shelter_or_rescue,Grey Tabby,,Jack Frost,Grey Tabby 
+101,shelter_or_rescue,Black,White,Dasher,Black White
+102,shelter_or_rescue,Black,,Dancer,Black 
+103,shelter_or_rescue,Grey,,Vixen,Grey 
+104,shelter_or_rescue,Grey Tabby,,Richard,Grey Tabby 
+105,shelter_or_rescue,Brown Tabby,White,Elisandra,Brown Tabby White
+106,shelter_or_rescue,Black,,Bradley,Black 
+107,shelter_or_rescue,Black,White,Benedict,Black White
+108,shelter_or_rescue,Grey Tabby,,Olivia,Grey Tabby 
+109,shelter_or_rescue,Brown Tabby,White,Cody,Brown Tabby White
+110,shelter_or_rescue,Grey Tabby,,Anya,Grey Tabby 
+111,shelter_or_rescue,Calico,,Shasta,Calico 
+112,shelter_or_rescue,White,Grey,Cindy Lou,White Grey
+113,shelter_or_rescue,Grey,,Rebel,Grey 
+114,shelter_or_rescue,Blue,White,Nicholas,Blue White
+115,shelter_or_rescue,Black,White,Boo,Black White
+116,shelter_or_rescue,Black,White,Sandy,Black White
+117,shelter_or_rescue,Black,,Danny,Black 
+118,shelter_or_rescue,Black,,Rizzo,Black 
+119,shelter_or_rescue,Black,White,Frenchie,Black White
+120,shelter_or_rescue,Black,White,Damien,Black White
+121,shelter_or_rescue,Grey Tabby,,Dexter,Grey Tabby 
+122,shelter_or_rescue,White,Brown,Kiki,White Brown
+123,shelter_or_rescue,Brown Tabby,,Spike,Brown Tabby 
+124,shelter_or_rescue,Brown Tabby,,Duckie,Brown Tabby 
+125,shelter_or_rescue,Brown Tabby,,Little Foot,Brown Tabby 
+126,shelter_or_rescue,Brown Tabby,,Petrie,Brown Tabby 
+127,shelter_or_rescue,Grey,,Casey,Grey 
+128,shelter_or_rescue,Orange Tabby,White,Marshall,Orange Tabby White
+129,shelter_or_rescue,Brown Tabby,,Venus,Brown Tabby 
+130,shelter_or_rescue,Muted Calico,,Winnie,Muted Calico 
+131,shelter_or_rescue,Patch Tabby,,Sarah,Patch Tabby 
+132,shelter_or_rescue,White,Buff,Billy,White Buff
+133,shelter_or_rescue,Buff Tiger,,Ice (aka: Ernie),Buff Tiger 
+134,shelter_or_rescue,White,Buff Tiger,Max,White Buff Tiger
+135,shelter_or_rescue,Black,White,Binx,Black White
+136,shelter_or_rescue,White,,Jake,White 
+137,shelter_or_rescue,Orange Tabby,,Mama Baby,Orange Tabby 
+138,shelter_or_rescue,White,Grey Tabby,Sam,White Grey Tabby
+139,shelter_or_rescue,White,Black,Mia,White Black
+140,shelter_or_rescue,White,Brown,Kiki,White Brown
+141,shelter_or_rescue,Brown Tabby,White,Bruce,Brown Tabby White
+142,shelter_or_rescue,Brown Tabby,White,Simone ,Brown Tabby White
+143,shelter_or_rescue,Brown Tabby,,Fiona,Brown Tabby 
+144,shelter_or_rescue,Orange Tabby,White,Toulouse,Orange Tabby White
+145,shelter_or_rescue,Brown Tabby,White,Sarah,Brown Tabby White
+146,shelter_or_rescue,Grey Tabby,,Kitty,Grey Tabby 
+147,shelter_or_rescue,Tortoiseshell,,Tori,Tortoiseshell 
+148,shelter_or_rescue,Brown Tabby,,Nacho,Brown Tabby 
+149,shelter_or_rescue,Black,,Alfredo,Black 
+150,shelter_or_rescue,Black,,Waffle,Black 
+151,shelter_or_rescue,Black,White,Olive,Black White
+152,shelter_or_rescue,Black,White,Oreo,Black White
+153,shelter_or_rescue,White,Black,Baker,White Black
+154,shelter_or_rescue,Black,,Kit- Cat,Black 
+155,shelter_or_rescue,Grey,White,Mr.Lilac,Grey White
+156,shelter_or_rescue,Black,White,Chaplin,Black White
+157,shelter_or_rescue,Orange Tabby,White,Marley,Orange Tabby White
+158,shelter_or_rescue,Blue,,Chevy,Blue 
+159,shelter_or_rescue,Black,,Salem,Black 
+160,shelter_or_rescue,Black,White,Keeley,Black White
+161,shelter_or_rescue,Black,White,Roy ,Black White
+162,shelter_or_rescue,Black,White,Ted,Black White
+163,shelter_or_rescue,Black,White,Jamie,Black White
+164,shelter_or_rescue,Black,White,Rupert,Black White
+165,shelter_or_rescue,Calico,,Callie,Calico 
+166,shelter_or_rescue,Black,White,Charcoal,Black White
+167,shelter_or_rescue,Orange Tabby,,Tookie,Orange Tabby 
+168,shelter_or_rescue,Orange Tabby,,Eddie,Orange Tabby 
+169,shelter_or_rescue,Grey Tabby,,Willow,Grey Tabby 
+170,shelter_or_rescue,Grey Tabby,,Gracie,Grey Tabby 
+171,shelter_or_rescue,Black,,Holly,Black 
+172,shelter_or_rescue,Black,,Alfredo,Black 
+173,shelter_or_rescue,Calico,,Maria,Calico 
+174,shelter_or_rescue,White,Grey,Sherman,White Grey
+175,shelter_or_rescue,Orange Tabby,,Rusty,Orange Tabby 
+176,shelter_or_rescue,Buff,Tabby,Fetch,Buff Tabby
+177,shelter_or_rescue,Black,,Buzz,Black 
+178,shelter_or_rescue,Tortoiseshell,,Vessy,Tortoiseshell 
+179,shelter_or_rescue,White,Brown Tabby,Luke,White Brown Tabby
+180,shelter_or_rescue,"Black 
+Tortoiseshell",,Grizelda,"Black 
+Tortoiseshell "
+181,shelter_or_rescue,Brown Tabby,,Lavender,Brown Tabby 
+182,shelter_or_rescue,Buff Tiger,,Toby,Buff Tiger 
+183,shelter_or_rescue,Black,,Pumpkin,Black 
+184,shelter_or_rescue,Black,,Hugo,Black 
+185,shelter_or_rescue,Brown Tabby,White,Monsieur Kitty,Brown Tabby White
+186,shelter_or_rescue,White,,Halo,White 
+187,shelter_or_rescue,Brown Tabby,,Cammy,Brown Tabby 
+188,shelter_or_rescue,Brown Tabby,,Caden,Brown Tabby 
+189,shelter_or_rescue,Brown Tabby,White,Carson,Brown Tabby White
+190,shelter_or_rescue,Brown Tabby,,Kim,Brown Tabby 
+191,shelter_or_rescue,White,,Bobby,White 
+192,shelter_or_rescue,Calico,,Karma,Calico 
+193,shelter_or_rescue,Grey Tabby,,Taz,Grey Tabby 
+194,shelter_or_rescue,Orange Tabby,,Gary,Orange Tabby 
+195,shelter_or_rescue,Black,,Midnight,Black 
+196,shelter_or_rescue,Grey,,Smokey,Grey 
+197,shelter_or_rescue,Grey,,Cvg,Grey 
+198,shelter_or_rescue,Brown Tabby,,Adam,Brown Tabby 
+199,shelter_or_rescue,Black,White,Lidia,Black White
+200,shelter_or_rescue,Black,White,Otho,Black White
+201,shelter_or_rescue,Grey Tabby,,Barbara,Grey Tabby 
+202,shelter_or_rescue,"Black 
+Tortoiseshell",,Grizelda,"Black 
+Tortoiseshell "
+203,shelter_or_rescue,Brown Tabby,,Delphine,Brown Tabby 
+204,shelter_or_rescue,Black,White,Dashi,Black White
+205,shelter_or_rescue,Black,,Beckie,Black 
+206,shelter_or_rescue,Grey Tabby,,Frankie,Grey Tabby 
+207,shelter_or_rescue,Orange Tabby,,Georgie,Orange Tabby 
+208,shelter_or_rescue,White,Buff,Billy,White Buff
+209,shelter_or_rescue,Buff,White,Willie,Buff White
+210,shelter_or_rescue,Black,,Bob,Black 
+211,shelter_or_rescue,Orange Tabby,White,Jack,Orange Tabby White
+212,shelter_or_rescue,"Cream Ginger 
+Tabby",,Creamsicle ,"Cream Ginger 
+Tabby "
+213,shelter_or_rescue,Brown Tabby,White,Milly,Brown Tabby White
+214,shelter_or_rescue,Grey,White,Mazie,Grey White
+215,shelter_or_rescue,Blue,White,Carrot,Blue White
+216,shelter_or_rescue,Blue,White,Rhubarb,Blue White
+217,shelter_or_rescue,Brown Tabby,,Twyla,Brown Tabby 
+218,shelter_or_rescue,"Black 
+Tortoiseshell",,Trouble,"Black 
+Tortoiseshell "
+219,shelter_or_rescue,"Black 
+Tortoiseshell",,Sissy,"Black 
+Tortoiseshell "
+220,shelter_or_rescue,"Black 
+Tortoiseshell",,Lou,"Black 
+Tortoiseshell "
+221,shelter_or_rescue,Brown Tabby,,Callie,Brown Tabby 
+222,shelter_or_rescue,Black,,Misty,Black 
+223,shelter_or_rescue,Grey,,Angel,Grey 
+224,shelter_or_rescue,Grey,,Nala,Grey 
+225,shelter_or_rescue,White,Black,Miles,White Black
+226,shelter_or_rescue,Black,,Skippy,Black 
+227,shelter_or_rescue,Black,,Rose,Black 
+228,shelter_or_rescue,Black,,Primrose ,Black 
+229,shelter_or_rescue,Grey Tabby,,Roger,Grey Tabby 
+230,shelter_or_rescue,Brown Tabby,,Doc,Brown Tabby 
+231,shelter_or_rescue,Brown Tabby,,Dopey,Brown Tabby 
+232,shelter_or_rescue,Black,,Mew Two,Black 
+233,shelter_or_rescue,Orange Tabby,,Michael,Orange Tabby 
+234,shelter_or_rescue,Grey Tabby,,Max,Grey Tabby 
+235,shelter_or_rescue,Orange Tabby,,June,Orange Tabby 
+236,shelter_or_rescue,Buff,Tabby,Hiccup,Buff Tabby
+237,shelter_or_rescue,Grey Tabby,,Lloyd,Grey Tabby 
+238,shelter_or_rescue,Black,,Ethel,Black 
+239,shelter_or_rescue,Blue,,Tad Pole,Blue 
+240,shelter_or_rescue,Blue,,Frog,Blue 
+241,shelter_or_rescue,Black,,Onyx,Black 
+242,shelter_or_rescue,White,Grey,Pearl,White Grey
+243,shelter_or_rescue,Black,,Khloe,Black 
+244,shelter_or_rescue,Black,,Kendall,Black 
+245,shelter_or_rescue,Black,,Scott,Black 
+246,shelter_or_rescue,Black,,Kourtney,Black 
+247,shelter_or_rescue,Black,,Kylie,Black 
+248,shelter_or_rescue,Brown Tabby,,Cindy Clawford,Brown Tabby 
+249,shelter_or_rescue,Brown Tabby,,Rodney,Brown Tabby 
+250,shelter_or_rescue,Grey Tabby,,Zeke,Grey Tabby 
+251,shelter_or_rescue,Grey Tabby,,Mir,Grey Tabby 
+252,shelter_or_rescue,Grey Tabby,,Sasha,Grey Tabby 
+253,shelter_or_rescue,Black,,Ethel,Black 
+254,shelter_or_rescue,Brown Tabby,,Johanna,Brown Tabby 
+255,shelter_or_rescue,Grey Tabby,,Rio,Grey Tabby 
+256,shelter_or_rescue,Black,White,Max,Black White
+257,shelter_or_rescue,Grey Tabby,,Dora,Grey Tabby 
+258,shelter_or_rescue,Calico,,Socks,Calico 
+259,shelter_or_rescue,Black,,Blacky,Black 
+260,shelter_or_rescue,Grey Tabby,,Cutie,Grey Tabby 
+261,shelter_or_rescue,Black,,Bott,Black 
+262,shelter_or_rescue,Grey Tabby,,Grub,Grey Tabby 
+263,shelter_or_rescue,Grey Tabby,,Samantha,Grey Tabby 
+264,shelter_or_rescue,Black,,Smokie,Black 
+265,shelter_or_rescue,Grey Tabby,,Dexter,Grey Tabby 
+266,shelter_or_rescue,Grey Tabby,,Creamy,Grey Tabby 
+267,shelter_or_rescue,Brown Tabby,,Mabel,Brown Tabby 
+268,shelter_or_rescue,Grey Tabby,,Beau,Grey Tabby 
+269,shelter_or_rescue,Grey Tabby,,Crew,Grey Tabby 
+270,shelter_or_rescue,Orange Tabby,,Nugget,Orange Tabby 
+271,shelter_or_rescue,Calico,,Gabrielle,Calico 
+272,shelter_or_rescue,Calico,,Bree,Calico 
+273,shelter_or_rescue,Black,White,Misty,Black White
+274,shelter_or_rescue,Calico,,Tinker Bell ,Calico 
+275,shelter_or_rescue,Orange Tabby,,Jimmy,Orange Tabby 
+276,shelter_or_rescue,Orange Tabby,,Victor,Orange Tabby 
+277,shelter_or_rescue,Orange Tabby,,Valen,Orange Tabby 
+278,shelter_or_rescue,Grey,,Victoria,Grey 
+279,shelter_or_rescue,Black,,Vance,Black 
+280,shelter_or_rescue,Orange Tabby,,Rex,Orange Tabby 
+281,shelter_or_rescue,Grey,,Lotso,Grey 
+282,shelter_or_rescue,Muted Calico,,Layla,Muted Calico 
+283,shelter_or_rescue,Blue,,Nancy,Blue 
+284,shelter_or_rescue,Blue,,Joyce,Blue 
+285,shelter_or_rescue,Blue,,Dustin,Blue 
+286,shelter_or_rescue,Blue,,Steve,Blue 
+287,shelter_or_rescue,Brown Tabby,,Viktor,Brown Tabby 
+288,shelter_or_rescue,Brown Tabby,,Tuk Tuk,Brown Tabby 
+289,shelter_or_rescue,Grey Tabby,,Pharoah,Grey Tabby 
+290,shelter_or_rescue,Orange Tabby,,Larry,Orange Tabby 
+291,shelter_or_rescue,Grey,White,George  ,Grey White
+292,shelter_or_rescue,Grey,,Amelia,Grey 
+293,shelter_or_rescue,Orange Tabby,,Mo,Orange Tabby 
+294,shelter_or_rescue,Orange Tabby,,Curly-Q,Orange Tabby 
+295,shelter_or_rescue,Grey Tabby,,Marion,Grey Tabby 
+296,shelter_or_rescue,Black,,Adalaide,Black 
+297,shelter_or_rescue,Grey,,Branch,Grey 
+298,shelter_or_rescue,Brown Tabby,White,Huey,Brown Tabby White
+299,shelter_or_rescue,Brown Tabby,White,Suey,Brown Tabby White
+300,shelter_or_rescue,Black,White,Chuey,Black White
+301,shelter_or_rescue,Black,,Slinky,Black 
+302,shelter_or_rescue,Black,,Sneaky,Black 
+303,shelter_or_rescue,Black,,Spicy,Black 
+304,shelter_or_rescue,Tortoiseshell,,Saucy,Tortoiseshell 
+305,shelter_or_rescue,Black,White,Doc Hudson,Black White
+306,shelter_or_rescue,Black,,Gus The Bus,Black 
+307,shelter_or_rescue,Black,White,Sally Carrera,Black White
+308,shelter_or_rescue,Black,,Sally,Black 
+309,shelter_or_rescue,Black,White,Tow Mater,Black White
+310,shelter_or_rescue,Black,,Ivy,Black 
+311,shelter_or_rescue,Black,White,Abby,Black White
+312,shelter_or_rescue,Grey Tabby,White,Abel,Grey Tabby White
+313,shelter_or_rescue,Orange Tabby,White,Angus,Orange Tabby White
+314,shelter_or_rescue,Buff,White,Arthur,Buff White
+315,shelter_or_rescue,Brown Tabby,White,Ashley,Brown Tabby White
+316,shelter_or_rescue,Patch Tabby,White,Alli,Patch Tabby White
+317,shelter_or_rescue,Patch Tabby,White,Amber,Patch Tabby White
+318,shelter_or_rescue,"Black 
+Tortoiseshell",,Paisley,"Black 
+Tortoiseshell "
+319,shelter_or_rescue,"Black 
+Tortoiseshell",,Penny,"Black 
+Tortoiseshell "
+320,shelter_or_rescue,Orange Tabby,,Legend,Orange Tabby 
+321,shelter_or_rescue,Black,,Rose,Black 
+322,shelter_or_rescue,Black,,Primrose ,Black 
+323,shelter_or_rescue,Black,White,Beetle Juice,Black White
+324,shelter_or_rescue,Brown Tabby,,Wuzzle,Brown Tabby 
+325,shelter_or_rescue,Grey,,Pippa,Grey 
+326,shelter_or_rescue,Black,,Bean,Black 
+327,shelter_or_rescue,Brown Tabby,,Luna,Brown Tabby 
+328,shelter_or_rescue,Brown Tabby,,Tiger,Brown Tabby 
+329,shelter_or_rescue,Grey Tabby,White,Miss Priss,Grey Tabby White
+330,shelter_or_rescue,Brown Tabby,,Tegan,Brown Tabby 
+331,shelter_or_rescue,Grey,White,Grey,Grey White
+332,shelter_or_rescue,Brown Tabby,White,Massassin,Brown Tabby White
+333,shelter_or_rescue,Calico,,Sammy,Calico 
+334,shelter_or_rescue,Black,White,Ian,Black White
+335,shelter_or_rescue,Orange Tabby,,Creamsicle,Orange Tabby 
+336,shelter_or_rescue,Calico,,Pepper,Calico 
+337,shelter_or_rescue,Brown Tabby,,Al Monroe,Brown Tabby 
+338,shelter_or_rescue,White,Silver Tabby,Ryle,White Silver Tabby
+339,shelter_or_rescue,Black,,Salem,Black 
+340,shelter_or_rescue,Black,White,Ro,Black White
+341,shelter_or_rescue,Black,White,Panda,Black White
+342,shelter_or_rescue,Calico,,Chloe,Calico 
+343,shelter_or_rescue,Black,,Batman,Black 
+344,shelter_or_rescue,Tortoiseshell,,Kraft,Tortoiseshell 
+345,shelter_or_rescue,White,,Davis,White 
+346,shelter_or_rescue,Black,,Spice,Black 
+347,shelter_or_rescue,White,Black,Sugar,White Black
+348,shelter_or_rescue,Black,White,Socks,Black White
+349,shelter_or_rescue,White,Black,Donut,White Black
+350,shelter_or_rescue,Orange Tabby,White,Turkey,Orange Tabby White
+351,shelter_or_rescue,Patch Tabby,,Hazel,Patch Tabby 
+352,shelter_or_rescue,Brown Tabby,,Jingle,Brown Tabby 
+353,shelter_or_rescue,Black,,Roy,Black 
+354,shelter_or_rescue,Black,White,Sierra,Black White
+355,shelter_or_rescue,Black,White,Peggy Sue,Black White
+356,shelter_or_rescue,Buff,White,Mandarin,Buff White
+357,shelter_or_rescue,Buff,Tabby,Anderson,Buff Tabby
+358,shelter_or_rescue,Black,,Callie,Black 
+359,shelter_or_rescue,Black,,Tiny,Black 
+360,shelter_or_rescue,Grey Tabby,,Dusty,Grey Tabby 
+361,shelter_or_rescue,Buff,White,Kit,Buff White
+362,shelter_or_rescue,Grey,,Grayson,Grey 
+363,shelter_or_rescue,Grey,White,Jekyll,Grey White
+364,shelter_or_rescue,Brown Tabby,,Buffalo,Brown Tabby 
+365,shelter_or_rescue,Brown Tabby,,Pickles,Brown Tabby 
+366,shelter_or_rescue,Brown Ticked,,Lilly,Brown Ticked 
+367,shelter_or_rescue,Tortoiseshell,,Lilly,Tortoiseshell 
+368,shelter_or_rescue,Brown Tabby,White,Sketchy,Brown Tabby White
+369,shelter_or_rescue,Black,,Mavis,Black 
+370,shelter_or_rescue,Brown Tabby,White,Samuel,Brown Tabby White
+371,shelter_or_rescue,Calico,,Nala,Calico 
+372,shelter_or_rescue,Grey Tabby,,Mochi,Grey Tabby 
+373,shelter_or_rescue,Orange Tabby,,Beauragarde,Orange Tabby 
+374,shelter_or_rescue,Brown Ticked,,Lilly,Brown Ticked 
+375,shelter_or_rescue,Brown Ticked,,Zoe,Brown Ticked 
+376,shelter_or_rescue,Orange Tabby,,Febreeze,Orange Tabby 
+377,shelter_or_rescue,Orange Tabby,,Furrari,Orange Tabby 
+378,shelter_or_rescue,Tortoiseshell,,Sadie,Tortoiseshell 
+379,shelter_or_rescue,Brown Tabby,,Pickles,Brown Tabby 
+380,shelter_or_rescue,Grey Tabby,,Dipper,Grey Tabby 
+381,shelter_or_rescue,Grey Tabby,,Mabel,Grey Tabby 
+382,shelter_or_rescue,Black,White,Beaver,Black White
+383,shelter_or_rescue,Grey Tabby,,Binke,Grey Tabby 
+384,shelter_or_rescue,Black,,Mason,Black 
+385,shelter_or_rescue,White,,Dutchess,White 
+386,shelter_or_rescue,Orange Tabby,,Ollie,Orange Tabby 
+387,shelter_or_rescue,Grey,White,Gypsy,Grey White
+388,shelter_or_rescue,Tortoiseshell,,Lilly,Tortoiseshell 
+389,shelter_or_rescue,"Black 
+Tortoiseshell",,Clawdia,"Black 
+Tortoiseshell "
+390,shelter_or_rescue,Brown Tabby,,Rick,Brown Tabby 
+391,shelter_or_rescue,Black,,Burlington,Black 
+392,shelter_or_rescue,Grey,,Sophia,Grey 
+393,shelter_or_rescue,Black,White,Christian ,Black White
+394,shelter_or_rescue,Grey Tabby,,Raymond,Grey Tabby 
+395,shelter_or_rescue,Brown Tabby,White,Socks,Brown Tabby White
+396,shelter_or_rescue,Grey,,Greg,Grey 
+397,shelter_or_rescue,Brown Tabby,,Tiger,Brown Tabby 
+398,shelter_or_rescue,"Black 
+Tortoiseshell",,Snickers,"Black 
+Tortoiseshell "
+399,shelter_or_rescue,Calico,,Doodles,Calico 
+400,shelter_or_rescue,Grey Tabby,White,Mimzy,Grey Tabby White
+401,shelter_or_rescue,Grey,White,Judy,Grey White
+402,shelter_or_rescue,Black,White,Ian,Black White
+403,shelter_or_rescue,Grey,White,Bishop,Grey White
+404,shelter_or_rescue,Brown Tabby,,Chief Benja,Brown Tabby 
+405,shelter_or_rescue,Brown Tabby,,Tuk Tuk,Brown Tabby 
+406,shelter_or_rescue,Brown Tabby,Patch Tabby,Sisu,Brown Tabby Patch Tabby
+407,shelter_or_rescue,Brown Tabby,Patch Tabby,Raya,Brown Tabby Patch Tabby
+408,shelter_or_rescue,Black,,Wuzzy,Black 
+409,shelter_or_rescue,Grey Tabby,,Lance,Grey Tabby 
+410,shelter_or_rescue,Grey Tabby,,Max,Grey Tabby 
+411,shelter_or_rescue,Grey Tabby,,Dempsey,Grey Tabby 
+412,shelter_or_rescue,White,Ginger,Jax,White Ginger
+413,shelter_or_rescue,Orange Tabby,,Pumpkin,Orange Tabby 
+414,shelter_or_rescue,Black,,Buzz,Black 
+415,shelter_or_rescue,Tabby,White,Jesse,Tabby White
+416,shelter_or_rescue,Tortoiseshell,,Bo Peep,Tortoiseshell 
+417,shelter_or_rescue,Black,,Woody,Black 
+418,shelter_or_rescue,Orange Tabby,,Dusty,Orange Tabby 
+419,shelter_or_rescue,Brown Tabby,White,Wanda,Brown Tabby White
+420,shelter_or_rescue,Brown Tabby,,Cosmo,Brown Tabby 
+421,shelter_or_rescue,Black,White,Randall,Black White
+422,shelter_or_rescue,Brown Tabby,,Allison,Brown Tabby 
+423,shelter_or_rescue,Grey Tabby,,Betty,Grey Tabby 
+424,shelter_or_rescue,Black,White,Rudy,Black White
+425,shelter_or_rescue,Black,,Boo,Black 
+426,shelter_or_rescue,Grey Tabby,,Hazel,Grey Tabby 
+427,shelter_or_rescue,Orange Tabby,White,Oliver,Orange Tabby White
+428,shelter_or_rescue,Torbie,White,Pompom,Torbie White
+429,shelter_or_rescue,Brown Tabby,,Princess Mia,Brown Tabby 
+430,shelter_or_rescue,White,,Roxy,White 
+431,shelter_or_rescue,Brown Tabby,,Cooper,Brown Tabby 
+432,shelter_or_rescue,Black,,Addie,Black 
+433,shelter_or_rescue,Grey Tabby,,Charlotte,Grey Tabby 
+434,shelter_or_rescue,Black,White,Judy,Black White
+435,shelter_or_rescue,White,,Dutchess,White 
+436,shelter_or_rescue,Grey,White,Hatch,Grey White
+437,shelter_or_rescue,Brown Tabby,,Dopey,Brown Tabby 
+438,shelter_or_rescue,Brown Tabby,,Bashful,Brown Tabby 
+439,shelter_or_rescue,Brown Tabby,,Doc,Brown Tabby 
+440,shelter_or_rescue,"Black 
+Tortoiseshell",,Ruthie,"Black 
+Tortoiseshell "
+441,shelter_or_rescue,Black,,Fro Fro,Black 
+442,shelter_or_rescue,Brown Tabby,White,Gir,Brown Tabby White
+443,shelter_or_rescue,Black,,Ethel,Black 
+444,shelter_or_rescue,Brown Tabby,White,Brockster,Brown Tabby White
+445,shelter_or_rescue,Black,White,Star,Black White
+446,shelter_or_rescue,"Black 
+Tortoiseshell",,Clawdia,"Black 
+Tortoiseshell "
+447,shelter_or_rescue,Grey Tabby,,Diez,Grey Tabby 
+448,shelter_or_rescue,Black,White,Meeka,Black White
+449,shelter_or_rescue,Black,,Vader,Black 
+450,shelter_or_rescue,Black,White,Luke,Black White
+451,shelter_or_rescue,Buff,White,Otis,Buff White
+452,shelter_or_rescue,Orange Tabby,,Mr. Ginger,Orange Tabby 
+453,shelter_or_rescue,Black,White,Luca,Black White
+454,shelter_or_rescue,Black,,Genevieve,Black 
+455,shelter_or_rescue,Black,White,Elijah,Black White
+456,shelter_or_rescue,White,Black,Bonnie,White Black
+457,shelter_or_rescue,Smoke,,Simon,Smoke 
+458,shelter_or_rescue,White,Brown Tabby,Daphne,White Brown Tabby
+459,shelter_or_rescue,Brown Tabby,,Tracy,Brown Tabby 
+460,shelter_or_rescue,Seal Point,,Charli,Seal Point 
+461,shelter_or_rescue,Cream,Seal Point,Alaya,Cream Seal Point
+462,shelter_or_rescue,"Chocolate 
+Point",,Milo,"Chocolate 
+Point "
+463,shelter_or_rescue,Buff Tiger,,Bryan,Buff Tiger 
+464,shelter_or_rescue,"Black 
+Tortoiseshell",,Slinky,"Black 
+Tortoiseshell "
+465,shelter_or_rescue,"Black 
+Tortoiseshell",,Slinky,"Black 
+Tortoiseshell "
+466,shelter_or_rescue,"Black 
+Tortoiseshell",,Wheezy,"Black 
+Tortoiseshell "
+467,shelter_or_rescue,,,,
+468,shelter_or_rescue,,,,
