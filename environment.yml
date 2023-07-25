@@ -1,0 +1,34 @@
+name: purr
+channels:
+  - conda-forge
+  - free
+  - defaults
+dependencies:
+  
+  - matplotlib=3.7.1=py39hecd8cb5_1
+  - matplotlib-base=3.7.1=py39hda11e5a_1
+  - matplotlib-inline=0.1.6=py39hecd8cb5_0
+  - numpy=1.24.3=py39h57a7bef_0
+  - numpy-base=1.24.3=py39hc93c6d9_0
+  - numpydoc=1.5.0=py39hecd8cb5_0
+  - pandas=2.0.0=py39hecff1ad_0
+  - python=3.9.16=h218abb5_2
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python-fastjsonschema=2.16.2=py39hecd8cb5_0
+  - python-json-logger=2.0.7=py39hecd8cb5_0
+  - python-libarchive-c=2.9=pyhd3eb1b0_1
+  - python-lmdb=1.4.1=py39hcec6c5f_0
+  - python-lsp-black=1.2.1=py39hecd8cb5_0
+  - python-lsp-jsonrpc=1.0.0=pyhd3eb1b0_0
+  - python-lsp-server=1.7.2=py39hecd8cb5_0
+  - python-slugify=5.0.2=pyhd3eb1b0_0
+  - python-snappy=0.6.1=py39hcec6c5f_0
+  - python-tzdata=2023.3=pyhd8ed1ab_0
+  - python.app=3=py39hca72f7f_0
+  - python_abi=3.9=2_cp39
+  - seaborn=0.12.2=py39hecd8cb5_0
+  - pip:
+      - jupyter-contrib-core==0.4.2
+      - jupyter-contrib-nbextensions==0.7.0
+      - jupyter-highlight-selected-word==0.2.0
+prefix: /Users/tonimoore/opt/anaconda3
