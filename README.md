@@ -1,7 +1,7 @@
 # Purrfect Personalities: 
 *A data analysis project designed to find relationships between where and how a pet cat was acquired and its temperament*
 
-The roughly 6.5 billion cat pictures on the internet and tens of millions of cat videos on YouTube, and all of us who are totally here for that content, cannot be wrong:
+All of us who are totally here for cat content--the roughly 6.5 billion cat pictures on the internet or the tens of millions of cat videos on YouTube--cannot be wrong:
 
 Cats are...something else.
 
@@ -11,7 +11,7 @@ As much as we love to see them and watch them, many shelter and rescue cats go u
 
 This project idea came from wondering how cat data might help more cats escape that ending and find loving furr-ever homes. 
 
-Also from being the owner of a ginger cat and wondering if it's true that all ginger cats just share the one brain cell...
+It also came from being the owner of a possibly-intelligent ginger cat and wondering if it's true that all ginger cats just share the one brain cell...
 
 ## Essential Questions
 
@@ -19,7 +19,7 @@ Also from being the owner of a ginger cat and wondering if it's true that all gi
 
 2. Does a cat's coat color have any identifiable commonalities to a cat's behavior or personality? For example, are black cats bad news and bad luck? Are orange tabbies as un-smart as the memes and reels suggest? Do tortoiseshells have "tortitude?" 
 
-3. Could this data in the hands of rescue and shelter personnel help match cats to their forever homes based on what a family might be looking for in a companion animal?
+3. Could this data, in the hands of rescue and shelter personnel, help match cats to their forever homes based on what a family might be looking for in a companion animal?
 
 ## Gathering the Data
 
