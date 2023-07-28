@@ -81,6 +81,12 @@ To leave this virtual environment after you've examined the project run:
 
 There's an environment.yml file in the repo. You know what to do. If not, see above and use those directions. 
 
+## Tableau Visualization
+
+I created a Tableau Story with visualizations to help share the data with respondent who asked me to share results. That can be found here:
+
+[Tableau Story](https://public.tableau.com/views/PurrfectPurrsonalities/TheSurveySays___?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Code Kentucky DA2 Project Requirements
 
 1. Load Data
@@ -93,7 +99,7 @@ The first three sections of ```purrfect_purrsonalities.ipynb``` show cleaning an
 
 3. Visualize/Present Data
 
-A total of four matplotlib or Seaborn visualizations are employed in parts four, five, and six of the project Notebook. There are also multiple pivot tables throughout the project.
+A total of four matplotlib or Seaborn visualizations are employed in parts four, five, and six of the project Notebook. A Tableau Workbook was created for easier public sharing and the resulting Story is linked above. There are also multiple pivot tables throughout the project.
 
 4. Best Practices
 
