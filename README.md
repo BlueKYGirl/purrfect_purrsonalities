@@ -83,7 +83,7 @@ There's an environment.yml file in the repo. You know what to do. If not, see ab
 
 ## Tableau Visualization
 
-I created a Tableau Story with visualizations to help share the data with respondent who asked me to share results. That can be found here:
+I created a Tableau Story with visualizations to help share the data with respondents who asked me to share results. That can be found here:
 
 [Tableau Story](https://public.tableau.com/views/PurrfectPurrsonalities/TheSurveySays___?:language=en-US&:display_count=n&:origin=viz_share_link)
 
